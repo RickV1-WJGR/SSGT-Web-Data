@@ -124,6 +124,7 @@
           "name": "Loretto School",
           "oom_points": 1262,
           "position": 1,
+          "profile_id": "s_7fc0373e-u15-schools",
           "school_id": "s_7fc0373e"
         },
         {
@@ -131,6 +132,7 @@
           "name": "St Leonards School St Andrews",
           "oom_points": 757,
           "position": 2,
+          "profile_id": "s_5127ec70-u15-schools",
           "school_id": "s_5127ec70"
         },
         {
@@ -138,6 +140,7 @@
           "name": "Merchiston Castle School",
           "oom_points": 316,
           "position": 3,
+          "profile_id": "s_76519fab-u15-schools",
           "school_id": "s_76519fab"
         }
       ],
@@ -411,6 +414,7 @@
           "name": "Loretto School",
           "oom_points": 1228,
           "position": 1,
+          "profile_id": "s_7fc0373e-u18-schools",
           "school_id": "s_7fc0373e"
         },
         {
@@ -418,6 +422,7 @@
           "name": "Durham Sixth Form Centre",
           "oom_points": 978,
           "position": 2,
+          "profile_id": "s_3b5ad4a0-u18-schools",
           "school_id": "s_3b5ad4a0"
         },
         {
@@ -425,6 +430,7 @@
           "name": "St Leonards School St Andrews",
           "oom_points": 737,
           "position": 3,
+          "profile_id": "s_5127ec70-u18-schools",
           "school_id": "s_5127ec70"
         },
         {
@@ -432,6 +438,7 @@
           "name": "Dollar Academy",
           "oom_points": 507,
           "position": 4,
+          "profile_id": "s_a906e666-u18-schools",
           "school_id": "s_a906e666"
         },
         {
@@ -439,6 +446,7 @@
           "name": "Merchiston Castle School",
           "oom_points": 307,
           "position": 5,
+          "profile_id": "s_76519fab-u18-schools",
           "school_id": "s_76519fab"
         }
       ],
@@ -1314,6 +1322,160 @@
       "player_id": "p_fe8b9038",
       "position": 5,
       "school": "Loretto School"
+    }
+  },
+  "schools": {
+    "s_3b5ad4a0-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 978,
+          "position": 2
+        }
+      ],
+      "events_played": 1,
+      "name": "Durham Sixth Form Centre",
+      "oom_points": 978,
+      "position": 2,
+      "profile_id": "s_3b5ad4a0-u18-schools",
+      "school_id": "s_3b5ad4a0"
+    },
+    "s_5127ec70-u15-schools": {
+      "competition": "u15-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 757,
+          "position": 2
+        }
+      ],
+      "events_played": 1,
+      "name": "St Leonards School St Andrews",
+      "oom_points": 757,
+      "position": 2,
+      "profile_id": "s_5127ec70-u15-schools",
+      "school_id": "s_5127ec70"
+    },
+    "s_5127ec70-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 737,
+          "position": 3
+        }
+      ],
+      "events_played": 1,
+      "name": "St Leonards School St Andrews",
+      "oom_points": 737,
+      "position": 3,
+      "profile_id": "s_5127ec70-u18-schools",
+      "school_id": "s_5127ec70"
+    },
+    "s_76519fab-u15-schools": {
+      "competition": "u15-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 316,
+          "position": 3
+        }
+      ],
+      "events_played": 1,
+      "name": "Merchiston Castle School",
+      "oom_points": 316,
+      "position": 3,
+      "profile_id": "s_76519fab-u15-schools",
+      "school_id": "s_76519fab"
+    },
+    "s_76519fab-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 307,
+          "position": 5
+        }
+      ],
+      "events_played": 1,
+      "name": "Merchiston Castle School",
+      "oom_points": 307,
+      "position": 5,
+      "profile_id": "s_76519fab-u18-schools",
+      "school_id": "s_76519fab"
+    },
+    "s_7fc0373e-u15-schools": {
+      "competition": "u15-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1262,
+          "position": 1
+        }
+      ],
+      "events_played": 1,
+      "name": "Loretto School",
+      "oom_points": 1262,
+      "position": 1,
+      "profile_id": "s_7fc0373e-u15-schools",
+      "school_id": "s_7fc0373e"
+    },
+    "s_7fc0373e-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1228,
+          "position": 1
+        }
+      ],
+      "events_played": 1,
+      "name": "Loretto School",
+      "oom_points": 1228,
+      "position": 1,
+      "profile_id": "s_7fc0373e-u18-schools",
+      "school_id": "s_7fc0373e"
+    },
+    "s_a906e666-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 507,
+          "position": 4
+        }
+      ],
+      "events_played": 1,
+      "name": "Dollar Academy",
+      "oom_points": 507,
+      "position": 4,
+      "profile_id": "s_a906e666-u18-schools",
+      "school_id": "s_a906e666"
     }
   },
   "season": {
