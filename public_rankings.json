@@ -1,0 +1,1280 @@
+{
+  "competitions": {
+    "u15-boys": {
+      "name": "U15 Boys",
+      "standings": [
+        {
+          "events_played": 1,
+          "name": "Douglas Brown",
+          "oom_points": 1364,
+          "player_id": "p_bf99e87a",
+          "position": 1,
+          "school": "Dollar Academy"
+        },
+        {
+          "events_played": 1,
+          "name": "Mwathi Gicheru",
+          "oom_points": 1213,
+          "player_id": "p_fc1e7bb0",
+          "position": 2,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Brody MacIver",
+          "oom_points": 1067,
+          "player_id": "p_1355d6e1",
+          "position": 3,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Angus Dunn",
+          "oom_points": 925,
+          "player_id": "p_d13da77f",
+          "position": 4,
+          "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Glenfinnan Patterson",
+          "oom_points": 788,
+          "player_id": "p_1c3e71a5",
+          "position": 5,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Harris Birnie",
+          "oom_points": 658,
+          "player_id": "p_13e2c0c5",
+          "position": 6,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Manuel Romero Vargas",
+          "oom_points": 533,
+          "player_id": "p_c1f8bf5c",
+          "position": 7,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Andres Simon Hegewisch",
+          "oom_points": 416,
+          "player_id": "p_07aa2c6b",
+          "position": 8,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Flynn McGowan",
+          "oom_points": 308,
+          "player_id": "p_9980f9ef",
+          "position": 9,
+          "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Logan Stevenson",
+          "oom_points": 209,
+          "player_id": "p_eff3bfa4",
+          "position": 10,
+          "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Iker Sanz",
+          "oom_points": 126,
+          "player_id": "p_31fa4f5e",
+          "position": 11,
+          "school": "Dollar Academy"
+        },
+        {
+          "events_played": 1,
+          "name": "Lucas Han",
+          "oom_points": 68,
+          "player_id": "p_599961da",
+          "position": 12,
+          "school": "Merchiston Castle School"
+        }
+      ],
+      "type": "individual"
+    },
+    "u15-girls": {
+      "name": "U15 Girls",
+      "standings": [
+        {
+          "events_played": 1,
+          "name": "Bailey Lockyer",
+          "oom_points": 958,
+          "player_id": "p_cdb5c016",
+          "position": 1,
+          "school": "Loretto School"
+        }
+      ],
+      "type": "individual"
+    },
+    "u15-schools": {
+      "name": "U15 Schools",
+      "standings": [
+        {
+          "events_played": 1,
+          "name": "Loretto School",
+          "oom_points": 1262,
+          "position": 1,
+          "school_id": "s_7fc0373e"
+        },
+        {
+          "events_played": 1,
+          "name": "St Leonards School St Andrews",
+          "oom_points": 757,
+          "position": 2,
+          "school_id": "s_5127ec70"
+        },
+        {
+          "events_played": 1,
+          "name": "Merchiston Castle School",
+          "oom_points": 316,
+          "position": 3,
+          "school_id": "s_76519fab"
+        }
+      ],
+      "type": "school"
+    },
+    "u18-boys": {
+      "name": "U18 Boys",
+      "standings": [
+        {
+          "events_played": 1,
+          "name": "Archie Palmer",
+          "oom_points": 1259,
+          "player_id": "p_65d4524b",
+          "position": 1,
+          "school": "Durham Sixth Form Centre"
+        },
+        {
+          "events_played": 1,
+          "name": "Bernardo Nava Domingues",
+          "oom_points": 1195,
+          "player_id": "p_b4cd0b54",
+          "position": 2,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Ben Miller",
+          "oom_points": 1100,
+          "player_id": "p_ca346610",
+          "position": 3,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Jay Emmerson",
+          "oom_points": 1100,
+          "player_id": "p_615e2448",
+          "position": 3,
+          "school": "Durham Sixth Form Centre"
+        },
+        {
+          "events_played": 1,
+          "name": "Amaury Lavollee",
+          "oom_points": 916,
+          "player_id": "p_fe8b9038",
+          "position": 5,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Hayden Lockyer",
+          "oom_points": 916,
+          "player_id": "p_3f7a6d52",
+          "position": 5,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Jaime Obregon Gastelum",
+          "oom_points": 916,
+          "player_id": "p_5b4c3aff",
+          "position": 5,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Joaquin Perez De Una",
+          "oom_points": 916,
+          "player_id": "p_56c03cf7",
+          "position": 5,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Ashton Everest",
+          "oom_points": 769,
+          "player_id": "p_bb573681",
+          "position": 9,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Finley Hall",
+          "oom_points": 630,
+          "player_id": "p_2aacebd1",
+          "position": 10,
+          "school": "Durham Sixth Form Centre"
+        },
+        {
+          "events_played": 1,
+          "name": "Guillaume Heim",
+          "oom_points": 630,
+          "player_id": "p_e9904dd6",
+          "position": 10,
+          "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Jake Lewis",
+          "oom_points": 630,
+          "player_id": "p_dd5987cf",
+          "position": 10,
+          "school": "Durham Sixth Form Centre"
+        },
+        {
+          "events_played": 1,
+          "name": "Leonard Andes",
+          "oom_points": 630,
+          "player_id": "p_5f062103",
+          "position": 10,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Jakob Schlagb\u00f6hmer",
+          "oom_points": 497,
+          "player_id": "p_ef604217",
+          "position": 14,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Matti Adam",
+          "oom_points": 446,
+          "player_id": "p_f985fd28",
+          "position": 15,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Emiliano Solis",
+          "oom_points": 397,
+          "player_id": "p_fabbf69b",
+          "position": 16,
+          "school": "Dollar Academy"
+        },
+        {
+          "events_played": 1,
+          "name": "Archie Brownlee",
+          "oom_points": 243,
+          "player_id": "p_ab684c40",
+          "position": 17,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Hugo Madrigal",
+          "oom_points": 243,
+          "player_id": "p_9757e1d5",
+          "position": 17,
+          "school": "Dollar Academy"
+        },
+        {
+          "events_played": 1,
+          "name": "Kaiyan Johnpillai",
+          "oom_points": 243,
+          "player_id": "p_4f775528",
+          "position": 17,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Licheng Zhu",
+          "oom_points": 243,
+          "player_id": "p_76d3545d",
+          "position": 17,
+          "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Luca Betz",
+          "oom_points": 243,
+          "player_id": "p_7256e964",
+          "position": 17,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Orhan Broome",
+          "oom_points": 243,
+          "player_id": "p_486bd605",
+          "position": 17,
+          "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Sebastian Yongo",
+          "oom_points": 110,
+          "player_id": "p_2e4b99df",
+          "position": 23,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Toby Crawford",
+          "oom_points": 82,
+          "player_id": "p_7938ed32",
+          "position": 24,
+          "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Struan Thomas",
+          "oom_points": 63,
+          "player_id": "p_23be22bb",
+          "position": 25,
+          "school": "Merchiston Castle School"
+        }
+      ],
+      "type": "individual"
+    },
+    "u18-girls": {
+      "name": "U18 Girls",
+      "standings": [
+        {
+          "events_played": 1,
+          "name": "Arianna Virik",
+          "oom_points": 915,
+          "player_id": "p_9d9e788a",
+          "position": 1,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Alexa Eskauriatza",
+          "oom_points": 696,
+          "player_id": "p_220ab54d",
+          "position": 2,
+          "school": "Dollar Academy"
+        },
+        {
+          "events_played": 1,
+          "name": "Philippa Runzheimer",
+          "oom_points": 493,
+          "player_id": "p_cef38b49",
+          "position": 3,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Nina Kramer",
+          "oom_points": 310,
+          "player_id": "p_296b00fd",
+          "position": 4,
+          "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 1,
+          "name": "Sylvie Scharfenberg",
+          "oom_points": 153,
+          "player_id": "p_cbe11cfb",
+          "position": 5,
+          "school": "Loretto School"
+        },
+        {
+          "events_played": 1,
+          "name": "Emilia P\u00fcttmann",
+          "oom_points": 46,
+          "player_id": "p_173a0c84",
+          "position": 6,
+          "school": "St Leonards School St Andrews"
+        }
+      ],
+      "type": "individual"
+    },
+    "u18-schools": {
+      "name": "U18 Schools",
+      "standings": [
+        {
+          "events_played": 1,
+          "name": "Loretto School",
+          "oom_points": 1228,
+          "position": 1,
+          "school_id": "s_7fc0373e"
+        },
+        {
+          "events_played": 1,
+          "name": "Durham Sixth Form Centre",
+          "oom_points": 978,
+          "position": 2,
+          "school_id": "s_3b5ad4a0"
+        },
+        {
+          "events_played": 1,
+          "name": "St Leonards School St Andrews",
+          "oom_points": 737,
+          "position": 3,
+          "school_id": "s_5127ec70"
+        },
+        {
+          "events_played": 1,
+          "name": "Dollar Academy",
+          "oom_points": 507,
+          "position": 4,
+          "school_id": "s_a906e666"
+        },
+        {
+          "events_played": 1,
+          "name": "Merchiston Castle School",
+          "oom_points": 307,
+          "position": 5,
+          "school_id": "s_76519fab"
+        }
+      ],
+      "type": "school"
+    }
+  },
+  "events": {
+    "royal-musselburgh-18-holes-2026-09-03": {
+      "competitions": {
+        "u15-boys": {
+          "event_power": 13.641,
+          "starting_count": 12
+        },
+        "u15-girls": {
+          "event_power": 9.579,
+          "starting_count": 1
+        },
+        "u15-schools": {
+          "event_power": 12.623,
+          "starting_count": 3
+        },
+        "u18-boys": {
+          "event_power": 12.591,
+          "starting_count": 25
+        },
+        "u18-girls": {
+          "event_power": 9.15,
+          "starting_count": 6
+        },
+        "u18-schools": {
+          "event_power": 12.277,
+          "starting_count": 5
+        }
+      },
+      "date": "2026-09-03",
+      "event_id": "royal-musselburgh-18-holes-2026-09-03",
+      "name": "Royal Musselburgh (18 holes)"
+    }
+  },
+  "players": {
+    "p_07aa2c6b": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 416
+        }
+      ],
+      "events_played": 1,
+      "name": "Andres Simon Hegewisch",
+      "oom_points": 416,
+      "player_id": "p_07aa2c6b",
+      "position": 8,
+      "school": "Loretto School"
+    },
+    "p_1355d6e1": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1067
+        }
+      ],
+      "events_played": 1,
+      "name": "Brody MacIver",
+      "oom_points": 1067,
+      "player_id": "p_1355d6e1",
+      "position": 3,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_13e2c0c5": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 658
+        }
+      ],
+      "events_played": 1,
+      "name": "Harris Birnie",
+      "oom_points": 658,
+      "player_id": "p_13e2c0c5",
+      "position": 6,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_173a0c84": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 46
+        }
+      ],
+      "events_played": 1,
+      "name": "Emilia P\u00fcttmann",
+      "oom_points": 46,
+      "player_id": "p_173a0c84",
+      "position": 6,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_1c3e71a5": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 788
+        }
+      ],
+      "events_played": 1,
+      "name": "Glenfinnan Patterson",
+      "oom_points": 788,
+      "player_id": "p_1c3e71a5",
+      "position": 5,
+      "school": "Loretto School"
+    },
+    "p_220ab54d": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 696
+        }
+      ],
+      "events_played": 1,
+      "name": "Alexa Eskauriatza",
+      "oom_points": 696,
+      "player_id": "p_220ab54d",
+      "position": 2,
+      "school": "Dollar Academy"
+    },
+    "p_23be22bb": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 63
+        }
+      ],
+      "events_played": 1,
+      "name": "Struan Thomas",
+      "oom_points": 63,
+      "player_id": "p_23be22bb",
+      "position": 25,
+      "school": "Merchiston Castle School"
+    },
+    "p_296b00fd": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 310
+        }
+      ],
+      "events_played": 1,
+      "name": "Nina Kramer",
+      "oom_points": 310,
+      "player_id": "p_296b00fd",
+      "position": 4,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_2aacebd1": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 630
+        }
+      ],
+      "events_played": 1,
+      "name": "Finley Hall",
+      "oom_points": 630,
+      "player_id": "p_2aacebd1",
+      "position": 10,
+      "school": "Durham Sixth Form Centre"
+    },
+    "p_2e4b99df": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 110
+        }
+      ],
+      "events_played": 1,
+      "name": "Sebastian Yongo",
+      "oom_points": 110,
+      "player_id": "p_2e4b99df",
+      "position": 23,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_31fa4f5e": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 126
+        }
+      ],
+      "events_played": 1,
+      "name": "Iker Sanz",
+      "oom_points": 126,
+      "player_id": "p_31fa4f5e",
+      "position": 11,
+      "school": "Dollar Academy"
+    },
+    "p_3f7a6d52": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 916
+        }
+      ],
+      "events_played": 1,
+      "name": "Hayden Lockyer",
+      "oom_points": 916,
+      "player_id": "p_3f7a6d52",
+      "position": 5,
+      "school": "Loretto School"
+    },
+    "p_486bd605": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 243
+        }
+      ],
+      "events_played": 1,
+      "name": "Orhan Broome",
+      "oom_points": 243,
+      "player_id": "p_486bd605",
+      "position": 17,
+      "school": "Merchiston Castle School"
+    },
+    "p_4f775528": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 243
+        }
+      ],
+      "events_played": 1,
+      "name": "Kaiyan Johnpillai",
+      "oom_points": 243,
+      "player_id": "p_4f775528",
+      "position": 17,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_56c03cf7": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 916
+        }
+      ],
+      "events_played": 1,
+      "name": "Joaquin Perez De Una",
+      "oom_points": 916,
+      "player_id": "p_56c03cf7",
+      "position": 5,
+      "school": "Loretto School"
+    },
+    "p_599961da": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 68
+        }
+      ],
+      "events_played": 1,
+      "name": "Lucas Han",
+      "oom_points": 68,
+      "player_id": "p_599961da",
+      "position": 12,
+      "school": "Merchiston Castle School"
+    },
+    "p_5b4c3aff": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 916
+        }
+      ],
+      "events_played": 1,
+      "name": "Jaime Obregon Gastelum",
+      "oom_points": 916,
+      "player_id": "p_5b4c3aff",
+      "position": 5,
+      "school": "Loretto School"
+    },
+    "p_5f062103": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 630
+        }
+      ],
+      "events_played": 1,
+      "name": "Leonard Andes",
+      "oom_points": 630,
+      "player_id": "p_5f062103",
+      "position": 10,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_615e2448": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1100
+        }
+      ],
+      "events_played": 1,
+      "name": "Jay Emmerson",
+      "oom_points": 1100,
+      "player_id": "p_615e2448",
+      "position": 3,
+      "school": "Durham Sixth Form Centre"
+    },
+    "p_65d4524b": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1259
+        }
+      ],
+      "events_played": 1,
+      "name": "Archie Palmer",
+      "oom_points": 1259,
+      "player_id": "p_65d4524b",
+      "position": 1,
+      "school": "Durham Sixth Form Centre"
+    },
+    "p_7256e964": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 243
+        }
+      ],
+      "events_played": 1,
+      "name": "Luca Betz",
+      "oom_points": 243,
+      "player_id": "p_7256e964",
+      "position": 17,
+      "school": "Loretto School"
+    },
+    "p_76d3545d": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 243
+        }
+      ],
+      "events_played": 1,
+      "name": "Licheng Zhu",
+      "oom_points": 243,
+      "player_id": "p_76d3545d",
+      "position": 17,
+      "school": "Merchiston Castle School"
+    },
+    "p_7938ed32": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 82
+        }
+      ],
+      "events_played": 1,
+      "name": "Toby Crawford",
+      "oom_points": 82,
+      "player_id": "p_7938ed32",
+      "position": 24,
+      "school": "Merchiston Castle School"
+    },
+    "p_9757e1d5": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 243
+        }
+      ],
+      "events_played": 1,
+      "name": "Hugo Madrigal",
+      "oom_points": 243,
+      "player_id": "p_9757e1d5",
+      "position": 17,
+      "school": "Dollar Academy"
+    },
+    "p_9980f9ef": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 308
+        }
+      ],
+      "events_played": 1,
+      "name": "Flynn McGowan",
+      "oom_points": 308,
+      "player_id": "p_9980f9ef",
+      "position": 9,
+      "school": "Merchiston Castle School"
+    },
+    "p_9d9e788a": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 915
+        }
+      ],
+      "events_played": 1,
+      "name": "Arianna Virik",
+      "oom_points": 915,
+      "player_id": "p_9d9e788a",
+      "position": 1,
+      "school": "Loretto School"
+    },
+    "p_ab684c40": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 243
+        }
+      ],
+      "events_played": 1,
+      "name": "Archie Brownlee",
+      "oom_points": 243,
+      "player_id": "p_ab684c40",
+      "position": 17,
+      "school": "Loretto School"
+    },
+    "p_b4cd0b54": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1195
+        }
+      ],
+      "events_played": 1,
+      "name": "Bernardo Nava Domingues",
+      "oom_points": 1195,
+      "player_id": "p_b4cd0b54",
+      "position": 2,
+      "school": "Loretto School"
+    },
+    "p_bb573681": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 769
+        }
+      ],
+      "events_played": 1,
+      "name": "Ashton Everest",
+      "oom_points": 769,
+      "player_id": "p_bb573681",
+      "position": 9,
+      "school": "Loretto School"
+    },
+    "p_bf99e87a": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1364
+        }
+      ],
+      "events_played": 1,
+      "name": "Douglas Brown",
+      "oom_points": 1364,
+      "player_id": "p_bf99e87a",
+      "position": 1,
+      "school": "Dollar Academy"
+    },
+    "p_c1f8bf5c": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 533
+        }
+      ],
+      "events_played": 1,
+      "name": "Manuel Romero Vargas",
+      "oom_points": 533,
+      "player_id": "p_c1f8bf5c",
+      "position": 7,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_ca346610": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1100
+        }
+      ],
+      "events_played": 1,
+      "name": "Ben Miller",
+      "oom_points": 1100,
+      "player_id": "p_ca346610",
+      "position": 3,
+      "school": "Loretto School"
+    },
+    "p_cbe11cfb": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 153
+        }
+      ],
+      "events_played": 1,
+      "name": "Sylvie Scharfenberg",
+      "oom_points": 153,
+      "player_id": "p_cbe11cfb",
+      "position": 5,
+      "school": "Loretto School"
+    },
+    "p_cdb5c016": {
+      "competition": "u15-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 958
+        }
+      ],
+      "events_played": 1,
+      "name": "Bailey Lockyer",
+      "oom_points": 958,
+      "player_id": "p_cdb5c016",
+      "position": 1,
+      "school": "Loretto School"
+    },
+    "p_cef38b49": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 493
+        }
+      ],
+      "events_played": 1,
+      "name": "Philippa Runzheimer",
+      "oom_points": 493,
+      "player_id": "p_cef38b49",
+      "position": 3,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_d13da77f": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 925
+        }
+      ],
+      "events_played": 1,
+      "name": "Angus Dunn",
+      "oom_points": 925,
+      "player_id": "p_d13da77f",
+      "position": 4,
+      "school": "Merchiston Castle School"
+    },
+    "p_dd5987cf": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 630
+        }
+      ],
+      "events_played": 1,
+      "name": "Jake Lewis",
+      "oom_points": 630,
+      "player_id": "p_dd5987cf",
+      "position": 10,
+      "school": "Durham Sixth Form Centre"
+    },
+    "p_e9904dd6": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 630
+        }
+      ],
+      "events_played": 1,
+      "name": "Guillaume Heim",
+      "oom_points": 630,
+      "player_id": "p_e9904dd6",
+      "position": 10,
+      "school": "Merchiston Castle School"
+    },
+    "p_ef604217": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 497
+        }
+      ],
+      "events_played": 1,
+      "name": "Jakob Schlagb\u00f6hmer",
+      "oom_points": 497,
+      "player_id": "p_ef604217",
+      "position": 14,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_eff3bfa4": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 209
+        }
+      ],
+      "events_played": 1,
+      "name": "Logan Stevenson",
+      "oom_points": 209,
+      "player_id": "p_eff3bfa4",
+      "position": 10,
+      "school": "Merchiston Castle School"
+    },
+    "p_f985fd28": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 446
+        }
+      ],
+      "events_played": 1,
+      "name": "Matti Adam",
+      "oom_points": 446,
+      "player_id": "p_f985fd28",
+      "position": 15,
+      "school": "St Leonards School St Andrews"
+    },
+    "p_fabbf69b": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 397
+        }
+      ],
+      "events_played": 1,
+      "name": "Emiliano Solis",
+      "oom_points": 397,
+      "player_id": "p_fabbf69b",
+      "position": 16,
+      "school": "Dollar Academy"
+    },
+    "p_fc1e7bb0": {
+      "competition": "u15-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 1213
+        }
+      ],
+      "events_played": 1,
+      "name": "Mwathi Gicheru",
+      "oom_points": 1213,
+      "player_id": "p_fc1e7bb0",
+      "position": 2,
+      "school": "Loretto School"
+    },
+    "p_fe8b9038": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-03",
+          "event_id": "royal-musselburgh-18-holes-2026-09-03",
+          "event_name": "Royal Musselburgh (18 holes)",
+          "points": 916
+        }
+      ],
+      "events_played": 1,
+      "name": "Amaury Lavollee",
+      "oom_points": 916,
+      "player_id": "p_fe8b9038",
+      "position": 5,
+      "school": "Loretto School"
+    }
+  },
+  "season": {
+    "name": "2026/27",
+    "schema_version": "public-v1",
+    "updated": "2026-09-09"
+  }
+}
