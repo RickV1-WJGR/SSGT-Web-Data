@@ -543,7 +543,7 @@
         {
           "events_played": 2,
           "name": "Bailey Lockyer",
-          "oom_points": 2322,
+          "oom_points": 1843,
           "player_id": "p_cdb5c016",
           "position": 1,
           "profile_id": "p_cdb5c016-u15-girls",
@@ -560,30 +560,30 @@
         },
         {
           "events_played": 1,
-          "name": "Yuliia Shydlyk",
-          "oom_points": 645,
-          "player_id": "p_58eebb51",
-          "position": 3,
-          "profile_id": "p_58eebb51-u15-girls",
-          "school": "Culford School"
-        },
-        {
-          "events_played": 1,
           "name": "Annie Pennycook",
-          "oom_points": 68,
+          "oom_points": 960,
           "player_id": "p_606a8a33",
-          "position": 4,
+          "position": 3,
           "profile_id": "p_606a8a33-u15-girls",
           "school": "St Leonards School St Andrews"
         },
         {
           "events_played": 1,
           "name": "Maria Ares Garcia",
-          "oom_points": 58,
+          "oom_points": 815,
           "player_id": "p_8cf0c4e6",
-          "position": 5,
+          "position": 4,
           "profile_id": "p_8cf0c4e6-u15-girls",
           "school": "Rossall School"
+        },
+        {
+          "events_played": 1,
+          "name": "Yuliia Shydlyk",
+          "oom_points": 322,
+          "player_id": "p_58eebb51",
+          "position": 5,
+          "profile_id": "p_58eebb51-u15-girls",
+          "school": "Culford School"
         },
         {
           "events_played": 1,
@@ -1273,10 +1273,19 @@
         },
         {
           "events_played": 1,
+          "name": "Kit Williams",
+          "oom_points": 651,
+          "player_id": "p_79f6756c",
+          "position": 66,
+          "profile_id": "p_79f6756c-u18-boys",
+          "school": "Culford School"
+        },
+        {
+          "events_played": 1,
           "name": "Finley Hall",
           "oom_points": 630,
           "player_id": "p_2aacebd1",
-          "position": 66,
+          "position": 67,
           "profile_id": "p_2aacebd1-u18-boys",
           "school": "Durham Sixth Form Centre"
         },
@@ -1285,7 +1294,7 @@
           "name": "Jake Lewis",
           "oom_points": 630,
           "player_id": "p_dd5987cf",
-          "position": 66,
+          "position": 67,
           "profile_id": "p_dd5987cf-u18-boys",
           "school": "Durham Sixth Form Centre"
         },
@@ -1294,7 +1303,7 @@
           "name": "Leonard Andes",
           "oom_points": 630,
           "player_id": "p_5f062103",
-          "position": 66,
+          "position": 67,
           "profile_id": "p_5f062103-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1303,7 +1312,7 @@
           "name": "Matthew Daniels",
           "oom_points": 616,
           "player_id": "p_06cc7ad7",
-          "position": 69,
+          "position": 70,
           "profile_id": "p_06cc7ad7-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -1312,7 +1321,7 @@
           "name": "River Winbergh",
           "oom_points": 600,
           "player_id": "p_24317837",
-          "position": 70,
+          "position": 71,
           "profile_id": "p_24317837-u18-boys",
           "school": "Wellington College"
         },
@@ -1321,7 +1330,7 @@
           "name": "William Mannering",
           "oom_points": 600,
           "player_id": "p_8262ae4a",
-          "position": 70,
+          "position": 71,
           "profile_id": "p_8262ae4a-u18-boys",
           "school": "Wellington College"
         },
@@ -1330,7 +1339,7 @@
           "name": "Angus McCranor",
           "oom_points": 568,
           "player_id": "p_184360e3",
-          "position": 72,
+          "position": 73,
           "profile_id": "p_184360e3-u18-boys",
           "school": "Glenalmond College"
         },
@@ -1339,18 +1348,9 @@
           "name": "Thomas Wylie",
           "oom_points": 568,
           "player_id": "p_f51953a2",
-          "position": 72,
+          "position": 73,
           "profile_id": "p_f51953a2-u18-boys",
           "school": "St Leonards School St Andrews"
-        },
-        {
-          "events_played": 1,
-          "name": "Kit Williams",
-          "oom_points": 565,
-          "player_id": "p_79f6756c",
-          "position": 74,
-          "profile_id": "p_79f6756c-u18-boys",
-          "school": "Culford School"
         },
         {
           "events_played": 1,
@@ -1417,10 +1417,19 @@
         },
         {
           "events_played": 1,
+          "name": "Guillermo Buchen Arredonda",
+          "oom_points": 403,
+          "player_id": "p_c9b87705",
+          "position": 82,
+          "profile_id": "p_c9b87705-u18-boys",
+          "school": "Culford School"
+        },
+        {
+          "events_played": 1,
           "name": "Evan MacPhee",
           "oom_points": 387,
           "player_id": "p_7d0501c9",
-          "position": 82,
+          "position": 83,
           "profile_id": "p_7d0501c9-u18-boys",
           "school": "Merchiston Castle School"
         },
@@ -1429,7 +1438,7 @@
           "name": "Ambrose Rowse",
           "oom_points": 370,
           "player_id": "p_b39dd4f6",
-          "position": 83,
+          "position": 84,
           "profile_id": "p_b39dd4f6-u18-boys",
           "school": "Reeds School"
         },
@@ -1438,7 +1447,7 @@
           "name": "Callum Neill",
           "oom_points": 370,
           "player_id": "p_a3ba242a",
-          "position": 83,
+          "position": 84,
           "profile_id": "p_a3ba242a-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1447,7 +1456,7 @@
           "name": "Finley Morrison",
           "oom_points": 370,
           "player_id": "p_de70fff2",
-          "position": 83,
+          "position": 84,
           "profile_id": "p_de70fff2-u18-boys",
           "school": "Reeds School"
         },
@@ -1456,7 +1465,7 @@
           "name": "George Sleight",
           "oom_points": 370,
           "player_id": "p_25503e73",
-          "position": 83,
+          "position": 84,
           "profile_id": "p_25503e73-u18-boys",
           "school": "Stowe School"
         },
@@ -1465,7 +1474,7 @@
           "name": "Saahir Kapoor",
           "oom_points": 370,
           "player_id": "p_ce980cd1",
-          "position": 83,
+          "position": 84,
           "profile_id": "p_ce980cd1-u18-boys",
           "school": "Reeds School"
         },
@@ -1474,7 +1483,7 @@
           "name": "Seb Hayden",
           "oom_points": 368,
           "player_id": "p_98ccbc12",
-          "position": 88,
+          "position": 89,
           "profile_id": "p_98ccbc12-u18-boys",
           "school": "Wellington College"
         },
@@ -1483,7 +1492,7 @@
           "name": "Guillermo Buchen Arrendonda",
           "oom_points": 327,
           "player_id": "p_2df80396",
-          "position": 89,
+          "position": 90,
           "profile_id": "p_2df80396-u18-boys",
           "school": "Culford School"
         },
@@ -1492,7 +1501,7 @@
           "name": "Jack Isaacs",
           "oom_points": 327,
           "player_id": "p_e767285a",
-          "position": 89,
+          "position": 90,
           "profile_id": "p_e767285a-u18-boys",
           "school": "Millfield School"
         },
@@ -1501,7 +1510,7 @@
           "name": "Orhan Broome",
           "oom_points": 313,
           "player_id": "p_486bd605",
-          "position": 91,
+          "position": 92,
           "profile_id": "p_486bd605-u18-boys",
           "school": "Merchiston Castle School"
         },
@@ -1510,18 +1519,9 @@
           "name": "Douglas Brown",
           "oom_points": 286,
           "player_id": "p_bf99e87a",
-          "position": 92,
+          "position": 93,
           "profile_id": "p_bf99e87a-u18-boys",
           "school": "Dollar Academy"
-        },
-        {
-          "events_played": 1,
-          "name": "Guillermo Buchen Arredonda",
-          "oom_points": 257,
-          "player_id": "p_c9b87705",
-          "position": 93,
-          "profile_id": "p_c9b87705-u18-boys",
-          "school": "Culford School"
         },
         {
           "events_played": 1,
@@ -1588,10 +1588,19 @@
         },
         {
           "events_played": 1,
+          "name": "Cole Graham",
+          "oom_points": 191,
+          "player_id": "p_663bd5b2",
+          "position": 101,
+          "profile_id": "p_663bd5b2-u18-boys",
+          "school": "Culford School"
+        },
+        {
+          "events_played": 1,
           "name": "Mitchell Couryer",
           "oom_points": 189,
           "player_id": "p_58ef7305",
-          "position": 101,
+          "position": 102,
           "profile_id": "p_58ef7305-u18-boys",
           "school": "Taunton School"
         },
@@ -1600,7 +1609,7 @@
           "name": "Ben Platt",
           "oom_points": 168,
           "player_id": "p_61d5488b",
-          "position": 102,
+          "position": 103,
           "profile_id": "p_61d5488b-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -1609,7 +1618,7 @@
           "name": "Toby Arrowsmith",
           "oom_points": 135,
           "player_id": "p_a536ba3b",
-          "position": 103,
+          "position": 104,
           "profile_id": "p_a536ba3b-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1618,7 +1627,7 @@
           "name": "Albie Porter",
           "oom_points": 131,
           "player_id": "p_123fc7ef",
-          "position": 104,
+          "position": 105,
           "profile_id": "p_123fc7ef-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1627,7 +1636,7 @@
           "name": "Rory Hunter",
           "oom_points": 115,
           "player_id": "p_ebc0315e",
-          "position": 105,
+          "position": 106,
           "profile_id": "p_ebc0315e-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1636,7 +1645,7 @@
           "name": "Sebastian Yongo",
           "oom_points": 110,
           "player_id": "p_2e4b99df",
-          "position": 106,
+          "position": 107,
           "profile_id": "p_2e4b99df-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1645,7 +1654,7 @@
           "name": "Iker Sanz",
           "oom_points": 105,
           "player_id": "p_31fa4f5e",
-          "position": 107,
+          "position": 108,
           "profile_id": "p_31fa4f5e-u18-boys",
           "school": "Dollar Academy"
         },
@@ -1654,7 +1663,7 @@
           "name": "Louie O'Reilly",
           "oom_points": 105,
           "player_id": "p_98b2a914",
-          "position": 107,
+          "position": 108,
           "profile_id": "p_98b2a914-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1663,7 +1672,7 @@
           "name": "Thomas Wolfe",
           "oom_points": 100,
           "player_id": "p_20d634fb",
-          "position": 109,
+          "position": 110,
           "profile_id": "p_20d634fb-u18-boys",
           "school": "Glenalmond College"
         },
@@ -1672,7 +1681,7 @@
           "name": "Evan Howells",
           "oom_points": 70,
           "player_id": "p_3111282c",
-          "position": 110,
+          "position": 111,
           "profile_id": "p_3111282c-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1681,7 +1690,7 @@
           "name": "Henry Dodds",
           "oom_points": 70,
           "player_id": "p_656462af",
-          "position": 110,
+          "position": 111,
           "profile_id": "p_656462af-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -1690,18 +1699,9 @@
           "name": "Struan Thomas",
           "oom_points": 63,
           "player_id": "p_23be22bb",
-          "position": 112,
+          "position": 113,
           "profile_id": "p_23be22bb-u18-boys",
           "school": "Merchiston Castle School"
-        },
-        {
-          "events_played": 1,
-          "name": "Cole Graham",
-          "oom_points": 46,
-          "player_id": "p_663bd5b2",
-          "position": 113,
-          "profile_id": "p_663bd5b2-u18-boys",
-          "school": "Culford School"
         },
         {
           "events_played": 1,
@@ -1728,20 +1728,11 @@
           "school": "Loretto School"
         },
         {
-          "events_played": 2,
-          "name": "Camila Mendez Vargas",
-          "oom_points": 1411,
-          "player_id": "p_876e52c5",
-          "position": 2,
-          "profile_id": "p_876e52c5-u18-girls",
-          "school": "Rossall School"
-        },
-        {
           "events_played": 1,
           "name": "Lila Bisset",
           "oom_points": 1401,
           "player_id": "p_3f9748b5",
-          "position": 3,
+          "position": 2,
           "profile_id": "p_3f9748b5-u18-girls",
           "school": "Rossall School"
         },
@@ -1750,7 +1741,7 @@
           "name": "Ffion Richardson",
           "oom_points": 1189,
           "player_id": "p_98c3b378",
-          "position": 4,
+          "position": 3,
           "profile_id": "p_98c3b378-u18-girls",
           "school": "Wolsey Oxford"
         },
@@ -1759,7 +1750,7 @@
           "name": "Alexa Eskauriatza",
           "oom_points": 1138,
           "player_id": "p_220ab54d",
-          "position": 5,
+          "position": 4,
           "profile_id": "p_220ab54d-u18-girls",
           "school": "Dollar Academy"
         },
@@ -1768,9 +1759,18 @@
           "name": "Philippa Runzheimer",
           "oom_points": 1074,
           "player_id": "p_cef38b49",
-          "position": 6,
+          "position": 5,
           "profile_id": "p_cef38b49-u18-girls",
           "school": "St Leonards School St Andrews"
+        },
+        {
+          "events_played": 2,
+          "name": "Camila Mendez Vargas",
+          "oom_points": 1056,
+          "player_id": "p_876e52c5",
+          "position": 6,
+          "profile_id": "p_876e52c5-u18-girls",
+          "school": "Rossall School"
         },
         {
           "events_played": 1,
@@ -1801,10 +1801,19 @@
         },
         {
           "events_played": 1,
+          "name": "Anashe Mukokeri",
+          "oom_points": 608,
+          "player_id": "p_d93d8100",
+          "position": 10,
+          "profile_id": "p_d93d8100-u18-girls",
+          "school": "Culford School"
+        },
+        {
+          "events_played": 1,
           "name": "Amy Blackadder",
           "oom_points": 581,
           "player_id": "p_2f4aba22",
-          "position": 10,
+          "position": 11,
           "profile_id": "p_2f4aba22-u18-girls",
           "school": "Glenalmond College"
         },
@@ -1813,7 +1822,7 @@
           "name": "Nina Kramer",
           "oom_points": 310,
           "player_id": "p_296b00fd",
-          "position": 11,
+          "position": 12,
           "profile_id": "p_296b00fd-u18-girls",
           "school": "St Leonards School St Andrews"
         },
@@ -1822,7 +1831,7 @@
           "name": "Harriett Isaacs",
           "oom_points": 289,
           "player_id": "p_c4d1b117",
-          "position": 12,
+          "position": 13,
           "profile_id": "p_c4d1b117-u18-girls",
           "school": "Taunton School"
         },
@@ -1831,7 +1840,7 @@
           "name": "Sylvie Scharfenberg",
           "oom_points": 223,
           "player_id": "p_cbe11cfb",
-          "position": 13,
+          "position": 14,
           "profile_id": "p_cbe11cfb-u18-girls",
           "school": "Loretto School"
         },
@@ -1840,7 +1849,7 @@
           "name": "Emily-May Clements",
           "oom_points": 159,
           "player_id": "p_a757b022",
-          "position": 14,
+          "position": 15,
           "profile_id": "p_a757b022-u18-girls",
           "school": "Wellington College"
         },
@@ -1849,18 +1858,9 @@
           "name": "Emilia P\u00fcttmann",
           "oom_points": 97,
           "player_id": "p_173a0c84",
-          "position": 15,
+          "position": 16,
           "profile_id": "p_173a0c84-u18-girls",
           "school": "St Leonards School St Andrews"
-        },
-        {
-          "events_played": 1,
-          "name": "Anashe Mukokeri",
-          "oom_points": 43,
-          "player_id": "p_d93d8100",
-          "position": 16,
-          "profile_id": "p_d93d8100-u18-girls",
-          "school": "Culford School"
         },
         {
           "events_played": 1,
@@ -1928,7 +1928,7 @@
         {
           "events_played": 2,
           "name": "Culford School",
-          "oom_points": 1608,
+          "oom_points": 1399,
           "position": 7,
           "profile_id": "s_55810334-u18-schools",
           "school_id": "s_55810334"
@@ -2247,7 +2247,7 @@
       "name": "Matthew Daniels",
       "oom_points": 616,
       "player_id": "p_06cc7ad7",
-      "position": 69,
+      "position": 70,
       "profile_id": "p_06cc7ad7-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -2463,7 +2463,7 @@
       "name": "Albie Porter",
       "oom_points": 131,
       "player_id": "p_123fc7ef",
-      "position": 104,
+      "position": 105,
       "profile_id": "p_123fc7ef-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -2567,7 +2567,7 @@
       "name": "Emilia P\u00fcttmann",
       "oom_points": 97,
       "player_id": "p_173a0c84",
-      "position": 15,
+      "position": 16,
       "profile_id": "p_173a0c84-u18-girls",
       "school": "St Leonards School St Andrews"
     },
@@ -2607,7 +2607,7 @@
       "name": "Angus McCranor",
       "oom_points": 568,
       "player_id": "p_184360e3",
-      "position": 72,
+      "position": 73,
       "profile_id": "p_184360e3-u18-boys",
       "school": "Glenalmond College"
     },
@@ -2715,7 +2715,7 @@
       "name": "Thomas Wolfe",
       "oom_points": 100,
       "player_id": "p_20d634fb",
-      "position": 109,
+      "position": 110,
       "profile_id": "p_20d634fb-u18-boys",
       "school": "Glenalmond College"
     },
@@ -2771,7 +2771,7 @@
       "name": "Alexa Eskauriatza",
       "oom_points": 1138,
       "player_id": "p_220ab54d",
-      "position": 5,
+      "position": 4,
       "profile_id": "p_220ab54d-u18-girls",
       "school": "Dollar Academy"
     },
@@ -2831,7 +2831,7 @@
       "name": "Struan Thomas",
       "oom_points": 63,
       "player_id": "p_23be22bb",
-      "position": 112,
+      "position": 113,
       "profile_id": "p_23be22bb-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -2851,7 +2851,7 @@
       "name": "River Winbergh",
       "oom_points": 600,
       "player_id": "p_24317837",
-      "position": 70,
+      "position": 71,
       "profile_id": "p_24317837-u18-boys",
       "school": "Wellington College"
     },
@@ -2871,7 +2871,7 @@
       "name": "George Sleight",
       "oom_points": 370,
       "player_id": "p_25503e73",
-      "position": 83,
+      "position": 84,
       "profile_id": "p_25503e73-u18-boys",
       "school": "Stowe School"
     },
@@ -2951,7 +2951,7 @@
       "name": "Nina Kramer",
       "oom_points": 310,
       "player_id": "p_296b00fd",
-      "position": 11,
+      "position": 12,
       "profile_id": "p_296b00fd-u18-girls",
       "school": "St Leonards School St Andrews"
     },
@@ -2971,7 +2971,7 @@
       "name": "Finley Hall",
       "oom_points": 630,
       "player_id": "p_2aacebd1",
-      "position": 66,
+      "position": 67,
       "profile_id": "p_2aacebd1-u18-boys",
       "school": "Durham Sixth Form Centre"
     },
@@ -3011,7 +3011,7 @@
       "name": "Guillermo Buchen Arrendonda",
       "oom_points": 327,
       "player_id": "p_2df80396",
-      "position": 89,
+      "position": 90,
       "profile_id": "p_2df80396-u18-boys",
       "school": "Culford School"
     },
@@ -3031,7 +3031,7 @@
       "name": "Sebastian Yongo",
       "oom_points": 110,
       "player_id": "p_2e4b99df",
-      "position": 106,
+      "position": 107,
       "profile_id": "p_2e4b99df-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -3051,7 +3051,7 @@
       "name": "Amy Blackadder",
       "oom_points": 581,
       "player_id": "p_2f4aba22",
-      "position": 10,
+      "position": 11,
       "profile_id": "p_2f4aba22-u18-girls",
       "school": "Glenalmond College"
     },
@@ -3111,7 +3111,7 @@
       "name": "Evan Howells",
       "oom_points": 70,
       "player_id": "p_3111282c",
-      "position": 110,
+      "position": 111,
       "profile_id": "p_3111282c-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -3159,7 +3159,7 @@
       "name": "Iker Sanz",
       "oom_points": 105,
       "player_id": "p_31fa4f5e",
-      "position": 107,
+      "position": 108,
       "profile_id": "p_31fa4f5e-u18-boys",
       "school": "Dollar Academy"
     },
@@ -3279,7 +3279,7 @@
       "name": "Lila Bisset",
       "oom_points": 1401,
       "player_id": "p_3f9748b5",
-      "position": 3,
+      "position": 2,
       "profile_id": "p_3f9748b5-u18-girls",
       "school": "Rossall School"
     },
@@ -3367,7 +3367,7 @@
       "name": "Orhan Broome",
       "oom_points": 313,
       "player_id": "p_486bd605",
-      "position": 91,
+      "position": 92,
       "profile_id": "p_486bd605-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -3667,15 +3667,15 @@
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
-          "points": 645,
+          "points": 322,
           "position": 1
         }
       ],
       "events_played": 1,
       "name": "Yuliia Shydlyk",
-      "oom_points": 645,
+      "oom_points": 322,
       "player_id": "p_58eebb51",
-      "position": 3,
+      "position": 5,
       "profile_id": "p_58eebb51-u15-girls",
       "school": "Culford School"
     },
@@ -3695,7 +3695,7 @@
       "name": "Mitchell Couryer",
       "oom_points": 189,
       "player_id": "p_58ef7305",
-      "position": 101,
+      "position": 102,
       "profile_id": "p_58ef7305-u18-boys",
       "school": "Taunton School"
     },
@@ -3795,7 +3795,7 @@
       "name": "Leonard Andes",
       "oom_points": 630,
       "player_id": "p_5f062103",
-      "position": 66,
+      "position": 67,
       "profile_id": "p_5f062103-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -3807,15 +3807,15 @@
           "date": "2026-09-22",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-elmwood-golf-club-36-holes-2026-09-22",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: Elmwood Golf Club (36 Holes)",
-          "points": 68,
+          "points": 960,
           "position": 2
         }
       ],
       "events_played": 1,
       "name": "Annie Pennycook",
-      "oom_points": 68,
+      "oom_points": 960,
       "player_id": "p_606a8a33",
-      "position": 4,
+      "position": 3,
       "profile_id": "p_606a8a33-u15-girls",
       "school": "St Leonards School St Andrews"
     },
@@ -3855,7 +3855,7 @@
       "name": "Ben Platt",
       "oom_points": 168,
       "player_id": "p_61d5488b",
-      "position": 102,
+      "position": 103,
       "profile_id": "p_61d5488b-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -3895,7 +3895,7 @@
       "name": "Henry Dodds",
       "oom_points": 70,
       "player_id": "p_656462af",
-      "position": 110,
+      "position": 111,
       "profile_id": "p_656462af-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -3947,15 +3947,15 @@
           "date": "2026-09-15",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-kp-club-36-holes-2026-09-15",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The KP Club (36 Holes)",
-          "points": 46,
+          "points": 191,
           "position": 4
         }
       ],
       "events_played": 1,
       "name": "Cole Graham",
-      "oom_points": 46,
+      "oom_points": 191,
       "player_id": "p_663bd5b2",
-      "position": 113,
+      "position": 101,
       "profile_id": "p_663bd5b2-u18-boys",
       "school": "Culford School"
     },
@@ -4155,15 +4155,15 @@
           "date": "2026-09-15",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-kp-club-36-holes-2026-09-15",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The KP Club (36 Holes)",
-          "points": 565,
+          "points": 651,
           "position": 2
         }
       ],
       "events_played": 1,
       "name": "Kit Williams",
-      "oom_points": 565,
+      "oom_points": 651,
       "player_id": "p_79f6756c",
-      "position": 74,
+      "position": 66,
       "profile_id": "p_79f6756c-u18-boys",
       "school": "Culford School"
     },
@@ -4243,7 +4243,7 @@
       "name": "Evan MacPhee",
       "oom_points": 387,
       "player_id": "p_7d0501c9",
-      "position": 82,
+      "position": 83,
       "profile_id": "p_7d0501c9-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -4323,7 +4323,7 @@
       "name": "William Mannering",
       "oom_points": 600,
       "player_id": "p_8262ae4a",
-      "position": 70,
+      "position": 71,
       "profile_id": "p_8262ae4a-u18-boys",
       "school": "Wellington College"
     },
@@ -4363,15 +4363,15 @@
           "date": "2026-09-15",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-kp-club-36-holes-2026-09-15",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The KP Club (36 Holes)",
-          "points": 710,
+          "points": 355,
           "position": 1
         }
       ],
       "events_played": 2,
       "name": "Camila Mendez Vargas",
-      "oom_points": 1411,
+      "oom_points": 1056,
       "player_id": "p_876e52c5",
-      "position": 2,
+      "position": 6,
       "profile_id": "p_876e52c5-u18-girls",
       "school": "Rossall School"
     },
@@ -4451,15 +4451,15 @@
           "date": "2026-09-15",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-kp-club-36-holes-2026-09-15",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The KP Club (36 Holes)",
-          "points": 58,
+          "points": 815,
           "position": 2
         }
       ],
       "events_played": 1,
       "name": "Maria Ares Garcia",
-      "oom_points": 58,
+      "oom_points": 815,
       "player_id": "p_8cf0c4e6",
-      "position": 5,
+      "position": 4,
       "profile_id": "p_8cf0c4e6-u15-girls",
       "school": "Rossall School"
     },
@@ -4583,7 +4583,7 @@
       "name": "Louie O'Reilly",
       "oom_points": 105,
       "player_id": "p_98b2a914",
-      "position": 107,
+      "position": 108,
       "profile_id": "p_98b2a914-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -4603,7 +4603,7 @@
       "name": "Ffion Richardson",
       "oom_points": 1189,
       "player_id": "p_98c3b378",
-      "position": 4,
+      "position": 3,
       "profile_id": "p_98c3b378-u18-girls",
       "school": "Wolsey Oxford"
     },
@@ -4623,7 +4623,7 @@
       "name": "Seb Hayden",
       "oom_points": 368,
       "player_id": "p_98ccbc12",
-      "position": 88,
+      "position": 89,
       "profile_id": "p_98ccbc12-u18-boys",
       "school": "Wellington College"
     },
@@ -4799,7 +4799,7 @@
       "name": "Callum Neill",
       "oom_points": 370,
       "player_id": "p_a3ba242a",
-      "position": 83,
+      "position": 84,
       "profile_id": "p_a3ba242a-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -4819,7 +4819,7 @@
       "name": "Toby Arrowsmith",
       "oom_points": 135,
       "player_id": "p_a536ba3b",
-      "position": 103,
+      "position": 104,
       "profile_id": "p_a536ba3b-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -4887,7 +4887,7 @@
       "name": "Emily-May Clements",
       "oom_points": 159,
       "player_id": "p_a757b022",
-      "position": 14,
+      "position": 15,
       "profile_id": "p_a757b022-u18-girls",
       "school": "Wellington College"
     },
@@ -5055,7 +5055,7 @@
       "name": "Ambrose Rowse",
       "oom_points": 370,
       "player_id": "p_b39dd4f6",
-      "position": 83,
+      "position": 84,
       "profile_id": "p_b39dd4f6-u18-boys",
       "school": "Reeds School"
     },
@@ -5267,7 +5267,7 @@
       "name": "Douglas Brown",
       "oom_points": 286,
       "player_id": "p_bf99e87a",
-      "position": 92,
+      "position": 93,
       "profile_id": "p_bf99e87a-u18-boys",
       "school": "Dollar Academy"
     },
@@ -5347,7 +5347,7 @@
       "name": "Harriett Isaacs",
       "oom_points": 289,
       "player_id": "p_c4d1b117",
-      "position": 12,
+      "position": 13,
       "profile_id": "p_c4d1b117-u18-girls",
       "school": "Taunton School"
     },
@@ -5419,15 +5419,15 @@
           "date": "2026-09-15",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-kp-club-36-holes-2026-09-15",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The KP Club (36 Holes)",
-          "points": 257,
+          "points": 403,
           "position": 3
         }
       ],
       "events_played": 1,
       "name": "Guillermo Buchen Arredonda",
-      "oom_points": 257,
+      "oom_points": 403,
       "player_id": "p_c9b87705",
-      "position": 93,
+      "position": 82,
       "profile_id": "p_c9b87705-u18-boys",
       "school": "Culford School"
     },
@@ -5483,7 +5483,7 @@
       "name": "Sylvie Scharfenberg",
       "oom_points": 223,
       "player_id": "p_cbe11cfb",
-      "position": 13,
+      "position": 14,
       "profile_id": "p_cbe11cfb-u18-girls",
       "school": "Loretto School"
     },
@@ -5495,7 +5495,7 @@
           "date": "2026-09-03",
           "event_id": "royal-musselburgh-18-holes-2026-09-03",
           "event_name": "Royal Musselburgh (18 holes)",
-          "points": 958,
+          "points": 479,
           "position": 1
         },
         {
@@ -5509,7 +5509,7 @@
       ],
       "events_played": 2,
       "name": "Bailey Lockyer",
-      "oom_points": 2322,
+      "oom_points": 1843,
       "player_id": "p_cdb5c016",
       "position": 1,
       "profile_id": "p_cdb5c016-u15-girls",
@@ -5531,7 +5531,7 @@
       "name": "Saahir Kapoor",
       "oom_points": 370,
       "player_id": "p_ce980cd1",
-      "position": 83,
+      "position": 84,
       "profile_id": "p_ce980cd1-u18-boys",
       "school": "Reeds School"
     },
@@ -5559,7 +5559,7 @@
       "name": "Philippa Runzheimer",
       "oom_points": 1074,
       "player_id": "p_cef38b49",
-      "position": 6,
+      "position": 5,
       "profile_id": "p_cef38b49-u18-girls",
       "school": "St Leonards School St Andrews"
     },
@@ -5699,15 +5699,15 @@
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
-          "points": 43,
+          "points": 608,
           "position": 2
         }
       ],
       "events_played": 1,
       "name": "Anashe Mukokeri",
-      "oom_points": 43,
+      "oom_points": 608,
       "player_id": "p_d93d8100",
-      "position": 16,
+      "position": 10,
       "profile_id": "p_d93d8100-u18-girls",
       "school": "Culford School"
     },
@@ -5747,7 +5747,7 @@
       "name": "Jake Lewis",
       "oom_points": 630,
       "player_id": "p_dd5987cf",
-      "position": 66,
+      "position": 67,
       "profile_id": "p_dd5987cf-u18-boys",
       "school": "Durham Sixth Form Centre"
     },
@@ -5787,7 +5787,7 @@
       "name": "Finley Morrison",
       "oom_points": 370,
       "player_id": "p_de70fff2",
-      "position": 83,
+      "position": 84,
       "profile_id": "p_de70fff2-u18-boys",
       "school": "Reeds School"
     },
@@ -5907,7 +5907,7 @@
       "name": "Jack Isaacs",
       "oom_points": 327,
       "player_id": "p_e767285a",
-      "position": 89,
+      "position": 90,
       "profile_id": "p_e767285a-u18-boys",
       "school": "Millfield School"
     },
@@ -6015,7 +6015,7 @@
       "name": "Rory Hunter",
       "oom_points": 115,
       "player_id": "p_ebc0315e",
-      "position": 105,
+      "position": 106,
       "profile_id": "p_ebc0315e-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -6211,7 +6211,7 @@
       "name": "Thomas Wylie",
       "oom_points": 568,
       "player_id": "p_f51953a2",
-      "position": 72,
+      "position": 73,
       "profile_id": "p_f51953a2-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -6700,13 +6700,13 @@
           "date": "2026-09-15",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-kp-club-36-holes-2026-09-15",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The KP Club (36 Holes)",
-          "points": 417,
+          "points": 208,
           "position": 1
         }
       ],
       "events_played": 2,
       "name": "Culford School",
-      "oom_points": 1608,
+      "oom_points": 1399,
       "position": 7,
       "profile_id": "s_55810334-u18-schools",
       "school_id": "s_55810334"
