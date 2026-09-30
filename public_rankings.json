@@ -688,163 +688,307 @@
       "standings": [
         {
           "events_played": 2,
+          "name": "Aaron Moody",
+          "oom_points": 3983,
+          "player_id": "p_0ca28110",
+          "position": 1,
+          "profile_id": "p_0ca28110-u18-boys",
+          "school": "Reeds School"
+        },
+        {
+          "events_played": 2,
+          "name": "Justin Wang",
+          "oom_points": 3630,
+          "player_id": "p_f35a000e",
+          "position": 2,
+          "profile_id": "p_f35a000e-u18-boys",
+          "school": "Culford School"
+        },
+        {
+          "events_played": 2,
+          "name": "Josh Jackson",
+          "oom_points": 3474,
+          "player_id": "p_26842293",
+          "position": 3,
+          "profile_id": "p_26842293-u18-boys",
+          "school": "Reeds School"
+        },
+        {
+          "events_played": 2,
+          "name": "Shiv Ahluwalia",
+          "oom_points": 3438,
+          "player_id": "p_1b39adfa",
+          "position": 4,
+          "profile_id": "p_1b39adfa-u18-boys",
+          "school": "St Paul's School"
+        },
+        {
+          "events_played": 2,
+          "name": "Cameron Gallagher",
+          "oom_points": 3235,
+          "player_id": "p_0c54a434",
+          "position": 5,
+          "profile_id": "p_0c54a434-u18-boys",
+          "school": "Rossall School"
+        },
+        {
+          "events_played": 2,
+          "name": "Oliver Coleman",
+          "oom_points": 3131,
+          "player_id": "p_5edc277c",
+          "position": 6,
+          "profile_id": "p_5edc277c-u18-boys",
+          "school": "Rossall School"
+        },
+        {
+          "events_played": 3,
           "name": "Jake Platt",
           "oom_points": 3113,
           "player_id": "p_abf14058",
-          "position": 1,
+          "position": 7,
           "profile_id": "p_abf14058-u18-boys",
           "school": "Gordon\u2019s School"
         },
         {
-          "events_played": 2,
+          "events_played": 3,
           "name": "Zach Mathews",
-          "oom_points": 2719,
+          "oom_points": 2892,
           "player_id": "p_019da67d",
-          "position": 2,
+          "position": 8,
           "profile_id": "p_019da67d-u18-boys",
           "school": "Gordon\u2019s School"
+        },
+        {
+          "events_played": 2,
+          "name": "Finlay Fergusson",
+          "oom_points": 2835,
+          "player_id": "p_d0011334",
+          "position": 9,
+          "profile_id": "p_d0011334-u18-boys",
+          "school": "Reeds School"
+        },
+        {
+          "events_played": 2,
+          "name": "Roland Gibson",
+          "oom_points": 2776,
+          "player_id": "p_21321579",
+          "position": 10,
+          "profile_id": "p_21321579-u18-boys",
+          "school": "Wellington College"
+        },
+        {
+          "events_played": 2,
+          "name": "George McCallum",
+          "oom_points": 2764,
+          "player_id": "p_f2ce1012",
+          "position": 11,
+          "profile_id": "p_f2ce1012-u18-boys",
+          "school": "Seaford College"
+        },
+        {
+          "events_played": 2,
+          "name": "Ellis Courtnell",
+          "oom_points": 2640,
+          "player_id": "p_96ace9af",
+          "position": 12,
+          "profile_id": "p_96ace9af-u18-boys",
+          "school": "Rossall School"
         },
         {
           "events_played": 2,
           "name": "Bernardo Nava Domingues",
           "oom_points": 2499,
           "player_id": "p_b4cd0b54",
-          "position": 3,
+          "position": 13,
           "profile_id": "p_b4cd0b54-u18-boys",
           "school": "Loretto School"
         },
         {
-          "events_played": 2,
+          "events_played": 3,
           "name": "Harry McCarthy",
-          "oom_points": 2315,
+          "oom_points": 2475,
           "player_id": "p_933709fb",
-          "position": 4,
+          "position": 14,
           "profile_id": "p_933709fb-u18-boys",
           "school": "Gordon\u2019s School"
         },
         {
-          "events_played": 1,
-          "name": "Roland Gibson",
-          "oom_points": 2102,
-          "player_id": "p_21321579",
-          "position": 5,
-          "profile_id": "p_21321579-u18-boys",
-          "school": "Wellington College"
-        },
-        {
-          "events_played": 1,
-          "name": "Aaron Moody",
-          "oom_points": 2056,
-          "player_id": "p_0ca28110",
-          "position": 6,
-          "profile_id": "p_0ca28110-u18-boys",
+          "events_played": 2,
+          "name": "Harvey Cooper",
+          "oom_points": 2419,
+          "player_id": "p_1e71568e",
+          "position": 15,
+          "profile_id": "p_1e71568e-u18-boys",
           "school": "Reeds School"
         },
         {
-          "events_played": 1,
-          "name": "Justin Wang",
-          "oom_points": 2011,
-          "player_id": "p_f35a000e",
-          "position": 7,
-          "profile_id": "p_f35a000e-u18-boys",
-          "school": "Culford School"
+          "events_played": 2,
+          "name": "Dominic Mayling",
+          "oom_points": 2320,
+          "player_id": "p_c8f25eb5",
+          "position": 16,
+          "profile_id": "p_c8f25eb5-u18-boys",
+          "school": "Reading Blue Coat School"
         },
         {
-          "events_played": 1,
-          "name": "Ellis Courtnell",
-          "oom_points": 1966,
-          "player_id": "p_96ace9af",
-          "position": 8,
-          "profile_id": "p_96ace9af-u18-boys",
+          "events_played": 2,
+          "name": "Ethan Kwan",
+          "oom_points": 2156,
+          "player_id": "p_a61e52fb",
+          "position": 17,
+          "profile_id": "p_a61e52fb-u18-boys",
+          "school": "Seaford College"
+        },
+        {
+          "events_played": 2,
+          "name": "Josh Bland",
+          "oom_points": 2122,
+          "player_id": "p_4163a8b5",
+          "position": 18,
+          "profile_id": "p_4163a8b5-u18-boys",
+          "school": "Stowe School"
+        },
+        {
+          "events_played": 2,
+          "name": "Alex Taylor",
+          "oom_points": 2119,
+          "player_id": "p_529f6066",
+          "position": 19,
+          "profile_id": "p_529f6066-u18-boys",
           "school": "Rossall School"
+        },
+        {
+          "events_played": 2,
+          "name": "Benjamin Maddaford",
+          "oom_points": 2119,
+          "player_id": "p_b64f9e12",
+          "position": 19,
+          "profile_id": "p_b64f9e12-u18-boys",
+          "school": "Bedford School"
         },
         {
           "events_played": 2,
           "name": "Amaury Lavollee",
           "oom_points": 1945,
           "player_id": "p_fe8b9038",
-          "position": 9,
+          "position": 21,
           "profile_id": "p_fe8b9038-u18-boys",
           "school": "Loretto School"
         },
         {
           "events_played": 1,
-          "name": "Josh Jackson",
-          "oom_points": 1855,
-          "player_id": "p_26842293",
-          "position": 10,
-          "profile_id": "p_26842293-u18-boys",
-          "school": "Reeds School"
+          "name": "Seb Duffield",
+          "oom_points": 1892,
+          "player_id": "p_4f995ca4",
+          "position": 22,
+          "profile_id": "p_4f995ca4-u18-boys",
+          "school": "Wellington College"
+        },
+        {
+          "events_played": 2,
+          "name": "Louie Carson",
+          "oom_points": 1823,
+          "player_id": "p_099667db",
+          "position": 23,
+          "profile_id": "p_099667db-u18-boys",
+          "school": "Lord Wandsworth College"
         },
         {
           "events_played": 1,
-          "name": "Oliver Coleman",
-          "oom_points": 1855,
-          "player_id": "p_5edc277c",
-          "position": 10,
-          "profile_id": "p_5edc277c-u18-boys",
-          "school": "Rossall School"
+          "name": "Adhritt Seth",
+          "oom_points": 1822,
+          "player_id": "p_5a8e4b20",
+          "position": 24,
+          "profile_id": "p_5a8e4b20-u18-boys",
+          "school": "Eton College"
         },
         {
           "events_played": 1,
-          "name": "Finlay Fergusson",
-          "oom_points": 1745,
-          "player_id": "p_d0011334",
-          "position": 12,
-          "profile_id": "p_d0011334-u18-boys",
-          "school": "Reeds School"
+          "name": "Ethan McKay",
+          "oom_points": 1822,
+          "player_id": "p_0bde23c2",
+          "position": 24,
+          "profile_id": "p_0bde23c2-u18-boys",
+          "school": "Tonbridge School"
         },
         {
           "events_played": 1,
-          "name": "Harvey Cooper",
-          "oom_points": 1745,
-          "player_id": "p_1e71568e",
-          "position": 12,
-          "profile_id": "p_1e71568e-u18-boys",
-          "school": "Reeds School"
+          "name": "Sullivan Goddard",
+          "oom_points": 1754,
+          "player_id": "p_80c00ee6",
+          "position": 26,
+          "profile_id": "p_80c00ee6-u18-boys",
+          "school": "Culford School"
         },
         {
           "events_played": 1,
           "name": "Rupert Heal",
           "oom_points": 1745,
           "player_id": "p_b58a85dc",
-          "position": 12,
+          "position": 27,
           "profile_id": "p_b58a85dc-u18-boys",
           "school": "Wellington College"
         },
         {
-          "events_played": 1,
-          "name": "Cameron Gallagher",
-          "oom_points": 1616,
-          "player_id": "p_0c54a434",
-          "position": 15,
-          "profile_id": "p_0c54a434-u18-boys",
-          "school": "Rossall School"
-        },
-        {
-          "events_played": 1,
-          "name": "Shiv Ahluwalia",
-          "oom_points": 1616,
-          "player_id": "p_1b39adfa",
-          "position": 15,
-          "profile_id": "p_1b39adfa-u18-boys",
-          "school": "St Paul's School"
-        },
-        {
-          "events_played": 1,
+          "events_played": 2,
           "name": "Shaan Patel",
-          "oom_points": 1510,
+          "oom_points": 1720,
           "player_id": "p_0f6d45c1",
-          "position": 17,
+          "position": 28,
           "profile_id": "p_0f6d45c1-u18-boys",
           "school": "Bedford School"
+        },
+        {
+          "events_played": 1,
+          "name": "Harry Ho",
+          "oom_points": 1619,
+          "player_id": "p_30397dac",
+          "position": 29,
+          "profile_id": "p_30397dac-u18-boys",
+          "school": "Winchester College"
+        },
+        {
+          "events_played": 1,
+          "name": "Jack McMeekin",
+          "oom_points": 1619,
+          "player_id": "p_db2f6a35",
+          "position": 29,
+          "profile_id": "p_db2f6a35-u18-boys",
+          "school": "Millfield School"
+        },
+        {
+          "events_played": 1,
+          "name": "Mikey Hadway",
+          "oom_points": 1619,
+          "player_id": "p_2b9a58e4",
+          "position": 29,
+          "profile_id": "p_2b9a58e4-u18-boys",
+          "school": "Abingdon School"
+        },
+        {
+          "events_played": 2,
+          "name": "Sean Collins",
+          "oom_points": 1559,
+          "player_id": "p_81e8afbd",
+          "position": 32,
+          "profile_id": "p_81e8afbd-u18-boys",
+          "school": "Reeds School"
+        },
+        {
+          "events_played": 2,
+          "name": "Josh Waldegrave",
+          "oom_points": 1548,
+          "player_id": "p_e880a27b",
+          "position": 33,
+          "profile_id": "p_e880a27b-u18-boys",
+          "school": "Amersham School"
         },
         {
           "events_played": 1,
           "name": "Tom Clemens",
           "oom_points": 1510,
           "player_id": "p_c04708b6",
-          "position": 17,
+          "position": 34,
           "profile_id": "p_c04708b6-u18-boys",
           "school": "Reeds School"
         },
@@ -853,7 +997,7 @@
           "name": "Seb Bonner",
           "oom_points": 1474,
           "player_id": "p_a6dbfe58",
-          "position": 19,
+          "position": 35,
           "profile_id": "p_a6dbfe58-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -862,7 +1006,7 @@
           "name": "Zach Patel",
           "oom_points": 1447,
           "player_id": "p_4cd0a6b3",
-          "position": 20,
+          "position": 36,
           "profile_id": "p_4cd0a6b3-u18-boys",
           "school": "Reeds School"
         },
@@ -871,25 +1015,52 @@
           "name": "Guillaume Heim",
           "oom_points": 1438,
           "player_id": "p_e9904dd6",
-          "position": 21,
+          "position": 37,
           "profile_id": "p_e9904dd6-u18-boys",
           "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 1,
+          "name": "Charles Wright",
+          "oom_points": 1437,
+          "player_id": "p_9c3dcaed",
+          "position": 38,
+          "profile_id": "p_9c3dcaed-u18-boys",
+          "school": "Millfield School"
+        },
+        {
+          "events_played": 1,
+          "name": "Joss Monachello",
+          "oom_points": 1437,
+          "player_id": "p_7545928a",
+          "position": 38,
+          "profile_id": "p_7545928a-u18-boys",
+          "school": "Millfield School"
         },
         {
           "events_played": 1,
           "name": "Lucas Taylor Rae",
           "oom_points": 1385,
           "player_id": "p_0a69b1dc",
-          "position": 22,
+          "position": 40,
           "profile_id": "p_0a69b1dc-u18-boys",
           "school": "Reeds School"
+        },
+        {
+          "events_played": 2,
+          "name": "Luke Waldegrave",
+          "oom_points": 1378,
+          "player_id": "p_a8df059e",
+          "position": 41,
+          "profile_id": "p_a8df059e-u18-boys",
+          "school": "Shiplake College"
         },
         {
           "events_played": 2,
           "name": "Ashton Everest",
           "oom_points": 1369,
           "player_id": "p_bb573681",
-          "position": 23,
+          "position": 42,
           "profile_id": "p_bb573681-u18-boys",
           "school": "Loretto school"
         },
@@ -898,7 +1069,7 @@
           "name": "Harry Jacks",
           "oom_points": 1344,
           "player_id": "p_66050998",
-          "position": 24,
+          "position": 43,
           "profile_id": "p_66050998-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -907,25 +1078,25 @@
           "name": "Jackson Tuohy",
           "oom_points": 1344,
           "player_id": "p_2fe6a55b",
-          "position": 24,
+          "position": 43,
           "profile_id": "p_2fe6a55b-u18-boys",
           "school": "St Leonards School St Andrews"
         },
         {
           "events_played": 1,
-          "name": "Louie Carson",
-          "oom_points": 1304,
-          "player_id": "p_099667db",
-          "position": 26,
-          "profile_id": "p_099667db-u18-boys",
-          "school": "Lord Wandsworth College"
+          "name": "Jack Wills",
+          "oom_points": 1276,
+          "player_id": "p_2dbca5e7",
+          "position": 45,
+          "profile_id": "p_2dbca5e7-u18-boys",
+          "school": "Bede's School"
         },
         {
           "events_played": 1,
           "name": "Archie Palmer",
           "oom_points": 1259,
           "player_id": "p_65d4524b",
-          "position": 27,
+          "position": 46,
           "profile_id": "p_65d4524b-u18-boys",
           "school": "Durham Sixth Form Centre"
         },
@@ -934,7 +1105,7 @@
           "name": "Ben Miller",
           "oom_points": 1249,
           "player_id": "p_ca346610",
-          "position": 28,
+          "position": 47,
           "profile_id": "p_ca346610-u18-boys",
           "school": "Loretto School"
         },
@@ -943,7 +1114,7 @@
           "name": "Freddie Watt",
           "oom_points": 1224,
           "player_id": "p_22b30a67",
-          "position": 29,
+          "position": 48,
           "profile_id": "p_22b30a67-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -952,7 +1123,7 @@
           "name": "Juan Alvaro Corella",
           "oom_points": 1224,
           "player_id": "p_0c7e6059",
-          "position": 29,
+          "position": 48,
           "profile_id": "p_0c7e6059-u18-boys",
           "school": "Culford School"
         },
@@ -961,7 +1132,7 @@
           "name": "Josh Hunt",
           "oom_points": 1192,
           "player_id": "p_ac7b2a72",
-          "position": 31,
+          "position": 50,
           "profile_id": "p_ac7b2a72-u18-boys",
           "school": "Stowe School"
         },
@@ -970,7 +1141,7 @@
           "name": "Niclas Pross",
           "oom_points": 1158,
           "player_id": "p_51c57bb4",
-          "position": 32,
+          "position": 51,
           "profile_id": "p_51c57bb4-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -979,61 +1150,79 @@
           "name": "Rocco Shelton",
           "oom_points": 1158,
           "player_id": "p_15009c27",
-          "position": 32,
+          "position": 51,
           "profile_id": "p_15009c27-u18-boys",
           "school": "St Leonards School St Andrews"
-        },
-        {
-          "events_played": 1,
-          "name": "George McCallum",
-          "oom_points": 1145,
-          "player_id": "p_f2ce1012",
-          "position": 34,
-          "profile_id": "p_f2ce1012-u18-boys",
-          "school": "Seaford College"
         },
         {
           "events_played": 1,
           "name": "Ziming Gong",
           "oom_points": 1145,
           "player_id": "p_28d29185",
-          "position": 34,
+          "position": 53,
           "profile_id": "p_28d29185-u18-boys",
           "school": "Eton College"
+        },
+        {
+          "events_played": 2,
+          "name": "Ambrose Eaves",
+          "oom_points": 1117,
+          "player_id": "p_006d5301",
+          "position": 54,
+          "profile_id": "p_006d5301-u18-boys",
+          "school": "Bedford School"
         },
         {
           "events_played": 1,
           "name": "Jay Emmerson",
           "oom_points": 1100,
           "player_id": "p_615e2448",
-          "position": 36,
+          "position": 55,
           "profile_id": "p_615e2448-u18-boys",
           "school": "Durham Sixth Form Centre"
+        },
+        {
+          "events_played": 2,
+          "name": "Rory Hunter",
+          "oom_points": 1100,
+          "player_id": "p_ebc0315e",
+          "position": 55,
+          "profile_id": "p_ebc0315e-u18-boys",
+          "school": "Lord Wandsworth College"
+        },
+        {
+          "events_played": 1,
+          "name": "Charlie Martin",
+          "oom_points": 1090,
+          "player_id": "p_f9fc3b7b",
+          "position": 57,
+          "profile_id": "p_f9fc3b7b-u18-boys",
+          "school": "Whitgift School"
+        },
+        {
+          "events_played": 1,
+          "name": "Seb Bullock",
+          "oom_points": 1090,
+          "player_id": "p_50591e5c",
+          "position": 57,
+          "profile_id": "p_50591e5c-u18-boys",
+          "school": "Tonbridge School"
         },
         {
           "events_played": 2,
           "name": "Kaiyan Johnpillai",
           "oom_points": 1051,
           "player_id": "p_4f775528",
-          "position": 37,
+          "position": 59,
           "profile_id": "p_4f775528-u18-boys",
           "school": "St Leonards School St Andrews"
-        },
-        {
-          "events_played": 1,
-          "name": "Dominic Mayling",
-          "oom_points": 1044,
-          "player_id": "p_c8f25eb5",
-          "position": 38,
-          "profile_id": "p_c8f25eb5-u18-boys",
-          "school": "Reading Blue Coat School"
         },
         {
           "events_played": 1,
           "name": "Bertie Billson",
           "oom_points": 1029,
           "player_id": "p_f64fe4fc",
-          "position": 39,
+          "position": 60,
           "profile_id": "p_f64fe4fc-u18-boys",
           "school": "Taunton School"
         },
@@ -1042,43 +1231,61 @@
           "name": "Finley Pyke",
           "oom_points": 1029,
           "player_id": "p_42b9272f",
-          "position": 39,
+          "position": 60,
           "profile_id": "p_42b9272f-u18-boys",
           "school": "Taunton School"
-        },
-        {
-          "events_played": 1,
-          "name": "Josh Waldegrave",
-          "oom_points": 1029,
-          "player_id": "p_e880a27b",
-          "position": 39,
-          "profile_id": "p_e880a27b-u18-boys",
-          "school": "Amersham School"
         },
         {
           "events_played": 1,
           "name": "Alan Tang",
           "oom_points": 1023,
           "player_id": "p_32e04680",
-          "position": 42,
+          "position": 62,
           "profile_id": "p_32e04680-u18-boys",
           "school": "Merchiston Castle School"
+        },
+        {
+          "events_played": 2,
+          "name": "Jack Carson",
+          "oom_points": 992,
+          "player_id": "p_94aa95b8",
+          "position": 63,
+          "profile_id": "p_94aa95b8-u18-boys",
+          "school": "Seaford College"
         },
         {
           "events_played": 1,
           "name": "Yianni Goulandris",
           "oom_points": 987,
           "player_id": "p_4bd351f1",
-          "position": 43,
+          "position": 64,
           "profile_id": "p_4bd351f1-u18-boys",
           "school": "Wellington College"
+        },
+        {
+          "events_played": 1,
+          "name": "Fergus Coleman",
+          "oom_points": 985,
+          "player_id": "p_25841921",
+          "position": 65,
+          "profile_id": "p_25841921-u18-boys",
+          "school": "Stowe School"
+        },
+        {
+          "events_played": 1,
+          "name": "Rory Jacomb",
+          "oom_points": 985,
+          "player_id": "p_74999c17",
+          "position": 65,
+          "profile_id": "p_74999c17-u18-boys",
+          "school": "Whitgift School"
         },
         {
           "events_played": 1,
           "name": "Constantin Scheller",
           "oom_points": 936,
           "player_id": "p_38aeb132",
-          "position": 44,
+          "position": 67,
           "profile_id": "p_38aeb132-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1087,7 +1294,7 @@
           "name": "Oliver Smith",
           "oom_points": 934,
           "player_id": "p_f1595f17",
-          "position": 45,
+          "position": 68,
           "profile_id": "p_f1595f17-u18-boys",
           "school": "Bedford School"
         },
@@ -1096,7 +1303,7 @@
           "name": "Finlay Johnson",
           "oom_points": 925,
           "player_id": "p_e3a232ed",
-          "position": 46,
+          "position": 69,
           "profile_id": "p_e3a232ed-u18-boys",
           "school": "Loughborough College"
         },
@@ -1105,7 +1312,7 @@
           "name": "Hayden Lockyer",
           "oom_points": 916,
           "player_id": "p_3f7a6d52",
-          "position": 47,
+          "position": 70,
           "profile_id": "p_3f7a6d52-u18-boys",
           "school": "Loretto School"
         },
@@ -1114,7 +1321,7 @@
           "name": "Jaime Obregon Gastelum",
           "oom_points": 916,
           "player_id": "p_5b4c3aff",
-          "position": 47,
+          "position": 70,
           "profile_id": "p_5b4c3aff-u18-boys",
           "school": "Loretto School"
         },
@@ -1123,34 +1330,16 @@
           "name": "Joaquin Perez De Una",
           "oom_points": 916,
           "player_id": "p_56c03cf7",
-          "position": 47,
+          "position": 70,
           "profile_id": "p_56c03cf7-u18-boys",
           "school": "Loretto School"
-        },
-        {
-          "events_played": 1,
-          "name": "Alex Taylor",
-          "oom_points": 843,
-          "player_id": "p_529f6066",
-          "position": 50,
-          "profile_id": "p_529f6066-u18-boys",
-          "school": "Rossall School"
-        },
-        {
-          "events_played": 1,
-          "name": "Benjamin Maddaford",
-          "oom_points": 843,
-          "player_id": "p_b64f9e12",
-          "position": 50,
-          "profile_id": "p_b64f9e12-u18-boys",
-          "school": "Bedford School"
         },
         {
           "events_played": 1,
           "name": "Edoardo Tenconi",
           "oom_points": 843,
           "player_id": "p_79f0ad99",
-          "position": 50,
+          "position": 73,
           "profile_id": "p_79f0ad99-u18-boys",
           "school": "Eton College"
         },
@@ -1159,16 +1348,70 @@
           "name": "Ollie Thwaites",
           "oom_points": 843,
           "player_id": "p_2b0ccce6",
-          "position": 50,
+          "position": 73,
           "profile_id": "p_2b0ccce6-u18-boys",
           "school": "Rossall School"
+        },
+        {
+          "events_played": 1,
+          "name": "Ansh Soni",
+          "oom_points": 840,
+          "player_id": "p_f061fb54",
+          "position": 75,
+          "profile_id": "p_f061fb54-u18-boys",
+          "school": "Eton College"
+        },
+        {
+          "events_played": 1,
+          "name": "David Sotkilava",
+          "oom_points": 840,
+          "player_id": "p_cc298b5e",
+          "position": 75,
+          "profile_id": "p_cc298b5e-u18-boys",
+          "school": "Eton College"
+        },
+        {
+          "events_played": 1,
+          "name": "Justin Zhao",
+          "oom_points": 840,
+          "player_id": "p_6c0f0e84",
+          "position": 75,
+          "profile_id": "p_6c0f0e84-u18-boys",
+          "school": "Tonbridge School"
+        },
+        {
+          "events_played": 1,
+          "name": "Ralph Justice",
+          "oom_points": 840,
+          "player_id": "p_6ac58b87",
+          "position": 75,
+          "profile_id": "p_6ac58b87-u18-boys",
+          "school": "Epsom College"
+        },
+        {
+          "events_played": 1,
+          "name": "Ryan Wills",
+          "oom_points": 840,
+          "player_id": "p_dcb7e25c",
+          "position": 75,
+          "profile_id": "p_dcb7e25c-u18-boys",
+          "school": "Bede's School"
+        },
+        {
+          "events_played": 1,
+          "name": "Yakov Vorobyev",
+          "oom_points": 840,
+          "player_id": "p_e331b321",
+          "position": 75,
+          "profile_id": "p_e331b321-u18-boys",
+          "school": "Canford School"
         },
         {
           "events_played": 1,
           "name": "Michael Greve",
           "oom_points": 819,
           "player_id": "p_09f83e58",
-          "position": 54,
+          "position": 81,
           "profile_id": "p_09f83e58-u18-boys",
           "school": "Reeds School"
         },
@@ -1177,7 +1420,7 @@
           "name": "Zane Martell",
           "oom_points": 806,
           "player_id": "p_8c5185fb",
-          "position": 55,
+          "position": 82,
           "profile_id": "p_8c5185fb-u18-boys",
           "school": "Cranleigh School"
         },
@@ -1186,7 +1429,7 @@
           "name": "Hugo Madrigal",
           "oom_points": 793,
           "player_id": "p_9757e1d5",
-          "position": 56,
+          "position": 83,
           "profile_id": "p_9757e1d5-u18-boys",
           "school": "Dollar Academy"
         },
@@ -1195,35 +1438,8 @@
           "name": "Ollie Morahan",
           "oom_points": 764,
           "player_id": "p_e0ef879b",
-          "position": 57,
+          "position": 84,
           "profile_id": "p_e0ef879b-u18-boys",
-          "school": "Reeds School"
-        },
-        {
-          "events_played": 1,
-          "name": "Ambrose Eaves",
-          "oom_points": 719,
-          "player_id": "p_006d5301",
-          "position": 58,
-          "profile_id": "p_006d5301-u18-boys",
-          "school": "Bedford School"
-        },
-        {
-          "events_played": 1,
-          "name": "Ethan Kwan",
-          "oom_points": 719,
-          "player_id": "p_a61e52fb",
-          "position": 58,
-          "profile_id": "p_a61e52fb-u18-boys",
-          "school": "Seaford College"
-        },
-        {
-          "events_played": 1,
-          "name": "Sean Collins",
-          "oom_points": 719,
-          "player_id": "p_81e8afbd",
-          "position": 58,
-          "profile_id": "p_81e8afbd-u18-boys",
           "school": "Reeds School"
         },
         {
@@ -1231,7 +1447,7 @@
           "name": "Jakob Schlagb\u00f6hmer",
           "oom_points": 695,
           "player_id": "p_ef604217",
-          "position": 61,
+          "position": 85,
           "profile_id": "p_ef604217-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1240,34 +1456,43 @@
           "name": "Alfie Field",
           "oom_points": 685,
           "player_id": "p_799753df",
-          "position": 62,
+          "position": 86,
           "profile_id": "p_799753df-u18-boys",
           "school": "Glenalmond College"
-        },
-        {
-          "events_played": 1,
-          "name": "Josh Bland",
-          "oom_points": 685,
-          "player_id": "p_4163a8b5",
-          "position": 62,
-          "profile_id": "p_4163a8b5-u18-boys",
-          "school": "Stowe School"
         },
         {
           "events_played": 1,
           "name": "Owen Hopper",
           "oom_points": 685,
           "player_id": "p_990795fb",
-          "position": 62,
+          "position": 86,
           "profile_id": "p_990795fb-u18-boys",
           "school": "Wellington College"
+        },
+        {
+          "events_played": 1,
+          "name": "Rory Browett",
+          "oom_points": 674,
+          "player_id": "p_b1171f9b",
+          "position": 88,
+          "profile_id": "p_b1171f9b-u18-boys",
+          "school": "Bradfield College"
+        },
+        {
+          "events_played": 1,
+          "name": "Zac Baines",
+          "oom_points": 674,
+          "player_id": "p_076ad599",
+          "position": 88,
+          "profile_id": "p_076ad599-u18-boys",
+          "school": "Harrow School"
         },
         {
           "events_played": 3,
           "name": "Emiliano Sol\u00eds P\u00e9rez Taylor",
           "oom_points": 654,
           "player_id": "p_fabbf69b",
-          "position": 65,
+          "position": 90,
           "profile_id": "p_fabbf69b-u18-boys",
           "school": "Dollar Academy"
         },
@@ -1276,7 +1501,7 @@
           "name": "Kit Williams",
           "oom_points": 651,
           "player_id": "p_79f6756c",
-          "position": 66,
+          "position": 91,
           "profile_id": "p_79f6756c-u18-boys",
           "school": "Culford School"
         },
@@ -1285,7 +1510,7 @@
           "name": "Finley Hall",
           "oom_points": 630,
           "player_id": "p_2aacebd1",
-          "position": 67,
+          "position": 92,
           "profile_id": "p_2aacebd1-u18-boys",
           "school": "Durham Sixth Form Centre"
         },
@@ -1294,7 +1519,7 @@
           "name": "Jake Lewis",
           "oom_points": 630,
           "player_id": "p_dd5987cf",
-          "position": 67,
+          "position": 92,
           "profile_id": "p_dd5987cf-u18-boys",
           "school": "Durham Sixth Form Centre"
         },
@@ -1303,7 +1528,7 @@
           "name": "Leonard Andes",
           "oom_points": 630,
           "player_id": "p_5f062103",
-          "position": 67,
+          "position": 92,
           "profile_id": "p_5f062103-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1312,7 +1537,7 @@
           "name": "Matthew Daniels",
           "oom_points": 616,
           "player_id": "p_06cc7ad7",
-          "position": 70,
+          "position": 95,
           "profile_id": "p_06cc7ad7-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -1321,7 +1546,7 @@
           "name": "River Winbergh",
           "oom_points": 600,
           "player_id": "p_24317837",
-          "position": 71,
+          "position": 96,
           "profile_id": "p_24317837-u18-boys",
           "school": "Wellington College"
         },
@@ -1330,7 +1555,7 @@
           "name": "William Mannering",
           "oom_points": 600,
           "player_id": "p_8262ae4a",
-          "position": 71,
+          "position": 96,
           "profile_id": "p_8262ae4a-u18-boys",
           "school": "Wellington College"
         },
@@ -1339,7 +1564,7 @@
           "name": "Angus McCranor",
           "oom_points": 568,
           "player_id": "p_184360e3",
-          "position": 73,
+          "position": 98,
           "profile_id": "p_184360e3-u18-boys",
           "school": "Glenalmond College"
         },
@@ -1348,7 +1573,7 @@
           "name": "Thomas Wylie",
           "oom_points": 568,
           "player_id": "p_f51953a2",
-          "position": 73,
+          "position": 98,
           "profile_id": "p_f51953a2-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1357,7 +1582,7 @@
           "name": "Bradley Bownes",
           "oom_points": 558,
           "player_id": "p_011fb8ef",
-          "position": 75,
+          "position": 100,
           "profile_id": "p_011fb8ef-u18-boys",
           "school": "Stowe School"
         },
@@ -1366,26 +1591,44 @@
           "name": "Thomas Kieran",
           "oom_points": 558,
           "player_id": "p_579a6125",
-          "position": 75,
+          "position": 100,
           "profile_id": "p_579a6125-u18-boys",
           "school": "Wellington College"
+        },
+        {
+          "events_played": 2,
+          "name": "Archer Kettle",
+          "oom_points": 519,
+          "player_id": "p_4f9c65d7",
+          "position": 102,
+          "profile_id": "p_4f9c65d7-u18-boys",
+          "school": "Wellington College"
+        },
+        {
+          "events_played": 1,
+          "name": "Jack Ruddy",
+          "oom_points": 519,
+          "player_id": "p_c874f845",
+          "position": 102,
+          "profile_id": "p_c874f845-u18-boys",
+          "school": "Cranleigh School"
+        },
+        {
+          "events_played": 1,
+          "name": "James Bradnum",
+          "oom_points": 519,
+          "player_id": "p_d04d56a5",
+          "position": 102,
+          "profile_id": "p_d04d56a5-u18-boys",
+          "school": "Epsom College"
         },
         {
           "events_played": 1,
           "name": "Max Hickie",
           "oom_points": 519,
           "player_id": "p_7a9e3862",
-          "position": 77,
+          "position": 102,
           "profile_id": "p_7a9e3862-u18-boys",
-          "school": "Seaford College"
-        },
-        {
-          "events_played": 1,
-          "name": "Jack Carson",
-          "oom_points": 473,
-          "player_id": "p_94aa95b8",
-          "position": 78,
-          "profile_id": "p_94aa95b8-u18-boys",
           "school": "Seaford College"
         },
         {
@@ -1393,7 +1636,7 @@
           "name": "Peer Glaeser",
           "oom_points": 457,
           "player_id": "p_d8edcec8",
-          "position": 79,
+          "position": 106,
           "profile_id": "p_d8edcec8-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1402,7 +1645,7 @@
           "name": "Matti Adam",
           "oom_points": 446,
           "player_id": "p_f985fd28",
-          "position": 80,
+          "position": 107,
           "profile_id": "p_f985fd28-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1411,7 +1654,7 @@
           "name": "Dylan Mumford",
           "oom_points": 412,
           "player_id": "p_552c54bd",
-          "position": 81,
+          "position": 108,
           "profile_id": "p_552c54bd-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -1420,16 +1663,34 @@
           "name": "Guillermo Buchen Arredonda",
           "oom_points": 403,
           "player_id": "p_c9b87705",
-          "position": 82,
+          "position": 109,
           "profile_id": "p_c9b87705-u18-boys",
           "school": "Culford School"
+        },
+        {
+          "events_played": 1,
+          "name": "Jeremy Li",
+          "oom_points": 398,
+          "player_id": "p_e4b219a8",
+          "position": 110,
+          "profile_id": "p_e4b219a8-u18-boys",
+          "school": "Whitgift School"
+        },
+        {
+          "events_played": 1,
+          "name": "Noah Guest",
+          "oom_points": 398,
+          "player_id": "p_c324a191",
+          "position": 110,
+          "profile_id": "p_c324a191-u18-boys",
+          "school": "St Paul's School"
         },
         {
           "events_played": 1,
           "name": "Evan MacPhee",
           "oom_points": 387,
           "player_id": "p_7d0501c9",
-          "position": 83,
+          "position": 112,
           "profile_id": "p_7d0501c9-u18-boys",
           "school": "Merchiston Castle School"
         },
@@ -1438,7 +1699,7 @@
           "name": "Ambrose Rowse",
           "oom_points": 370,
           "player_id": "p_b39dd4f6",
-          "position": 84,
+          "position": 113,
           "profile_id": "p_b39dd4f6-u18-boys",
           "school": "Reeds School"
         },
@@ -1447,7 +1708,7 @@
           "name": "Callum Neill",
           "oom_points": 370,
           "player_id": "p_a3ba242a",
-          "position": 84,
+          "position": 113,
           "profile_id": "p_a3ba242a-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1456,7 +1717,7 @@
           "name": "Finley Morrison",
           "oom_points": 370,
           "player_id": "p_de70fff2",
-          "position": 84,
+          "position": 113,
           "profile_id": "p_de70fff2-u18-boys",
           "school": "Reeds School"
         },
@@ -1465,7 +1726,7 @@
           "name": "George Sleight",
           "oom_points": 370,
           "player_id": "p_25503e73",
-          "position": 84,
+          "position": 113,
           "profile_id": "p_25503e73-u18-boys",
           "school": "Stowe School"
         },
@@ -1474,7 +1735,7 @@
           "name": "Saahir Kapoor",
           "oom_points": 370,
           "player_id": "p_ce980cd1",
-          "position": 84,
+          "position": 113,
           "profile_id": "p_ce980cd1-u18-boys",
           "school": "Reeds School"
         },
@@ -1483,16 +1744,43 @@
           "name": "Seb Hayden",
           "oom_points": 368,
           "player_id": "p_98ccbc12",
-          "position": 89,
+          "position": 118,
           "profile_id": "p_98ccbc12-u18-boys",
           "school": "Wellington College"
+        },
+        {
+          "events_played": 1,
+          "name": "Lachlan Marshall",
+          "oom_points": 331,
+          "player_id": "p_bfd38d69",
+          "position": 119,
+          "profile_id": "p_bfd38d69-u18-boys",
+          "school": "Abingdon School"
+        },
+        {
+          "events_played": 1,
+          "name": "Teddy Jenkins",
+          "oom_points": 331,
+          "player_id": "p_c0e7643a",
+          "position": 119,
+          "profile_id": "p_c0e7643a-u18-boys",
+          "school": "Canford School"
+        },
+        {
+          "events_played": 1,
+          "name": "Troy Buttimer",
+          "oom_points": 331,
+          "player_id": "p_45b24b2d",
+          "position": 119,
+          "profile_id": "p_45b24b2d-u18-boys",
+          "school": "Harrow School"
         },
         {
           "events_played": 1,
           "name": "Guillermo Buchen Arrendonda",
           "oom_points": 327,
           "player_id": "p_2df80396",
-          "position": 90,
+          "position": 122,
           "profile_id": "p_2df80396-u18-boys",
           "school": "Culford School"
         },
@@ -1501,7 +1789,7 @@
           "name": "Jack Isaacs",
           "oom_points": 327,
           "player_id": "p_e767285a",
-          "position": 90,
+          "position": 122,
           "profile_id": "p_e767285a-u18-boys",
           "school": "Millfield School"
         },
@@ -1510,7 +1798,7 @@
           "name": "Orhan Broome",
           "oom_points": 313,
           "player_id": "p_486bd605",
-          "position": 92,
+          "position": 124,
           "profile_id": "p_486bd605-u18-boys",
           "school": "Merchiston Castle School"
         },
@@ -1519,16 +1807,52 @@
           "name": "Douglas Brown",
           "oom_points": 286,
           "player_id": "p_bf99e87a",
-          "position": 93,
+          "position": 125,
           "profile_id": "p_bf99e87a-u18-boys",
           "school": "Dollar Academy"
+        },
+        {
+          "events_played": 1,
+          "name": "Hutton McRoberts",
+          "oom_points": 268,
+          "player_id": "p_15ef7e3a",
+          "position": 126,
+          "profile_id": "p_15ef7e3a-u18-boys",
+          "school": "Harrow School"
+        },
+        {
+          "events_played": 1,
+          "name": "Juan Alvaro Corella Greicha",
+          "oom_points": 268,
+          "player_id": "p_84c92e4d",
+          "position": 126,
+          "profile_id": "p_84c92e4d-u18-boys",
+          "school": "Culford School"
+        },
+        {
+          "events_played": 1,
+          "name": "Woody Covey",
+          "oom_points": 268,
+          "player_id": "p_f441bf6b",
+          "position": 126,
+          "profile_id": "p_f441bf6b-u18-boys",
+          "school": "Bradfield College"
+        },
+        {
+          "events_played": 2,
+          "name": "Albie Porter",
+          "oom_points": 253,
+          "player_id": "p_123fc7ef",
+          "position": 129,
+          "profile_id": "p_123fc7ef-u18-boys",
+          "school": "Lord Wandsworth College"
         },
         {
           "events_played": 1,
           "name": "Oliver Sadler",
           "oom_points": 248,
           "player_id": "p_d4f06242",
-          "position": 94,
+          "position": 130,
           "profile_id": "p_d4f06242-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -1537,7 +1861,7 @@
           "name": "Archie Brownlee",
           "oom_points": 243,
           "player_id": "p_ab684c40",
-          "position": 95,
+          "position": 131,
           "profile_id": "p_ab684c40-u18-boys",
           "school": "Loretto School"
         },
@@ -1546,7 +1870,7 @@
           "name": "James Tompkins",
           "oom_points": 243,
           "player_id": "p_7adf8e50",
-          "position": 95,
+          "position": 131,
           "profile_id": "p_7adf8e50-u18-boys",
           "school": "Wellington College"
         },
@@ -1555,7 +1879,7 @@
           "name": "Licheng Zhu",
           "oom_points": 243,
           "player_id": "p_76d3545d",
-          "position": 95,
+          "position": 131,
           "profile_id": "p_76d3545d-u18-boys",
           "school": "Merchiston Castle School"
         },
@@ -1564,7 +1888,7 @@
           "name": "Luca Betz",
           "oom_points": 243,
           "player_id": "p_7256e964",
-          "position": 95,
+          "position": 131,
           "profile_id": "p_7256e964-u18-boys",
           "school": "Loretto School"
         },
@@ -1573,25 +1897,34 @@
           "name": "Toby Crawford",
           "oom_points": 228,
           "player_id": "p_7938ed32",
-          "position": 99,
+          "position": 135,
           "profile_id": "p_7938ed32-u18-boys",
           "school": "Merchiston Castle School"
         },
         {
           "events_played": 1,
-          "name": "Luke Waldegrave",
-          "oom_points": 212,
-          "player_id": "p_a8df059e",
-          "position": 100,
-          "profile_id": "p_a8df059e-u18-boys",
-          "school": "Shiplake College"
+          "name": "August Hu",
+          "oom_points": 210,
+          "player_id": "p_b597311a",
+          "position": 136,
+          "profile_id": "p_b597311a-u18-boys",
+          "school": "Radley College"
+        },
+        {
+          "events_played": 1,
+          "name": "Henry Bayly",
+          "oom_points": 210,
+          "player_id": "p_72475b59",
+          "position": 136,
+          "profile_id": "p_72475b59-u18-boys",
+          "school": "Radley College"
         },
         {
           "events_played": 1,
           "name": "Cole Graham",
           "oom_points": 191,
           "player_id": "p_663bd5b2",
-          "position": 101,
+          "position": 138,
           "profile_id": "p_663bd5b2-u18-boys",
           "school": "Culford School"
         },
@@ -1600,52 +1933,70 @@
           "name": "Mitchell Couryer",
           "oom_points": 189,
           "player_id": "p_58ef7305",
-          "position": 102,
+          "position": 139,
           "profile_id": "p_58ef7305-u18-boys",
           "school": "Taunton School"
+        },
+        {
+          "events_played": 1,
+          "name": "Sander Andreasen",
+          "oom_points": 174,
+          "player_id": "p_d7425bb3",
+          "position": 140,
+          "profile_id": "p_d7425bb3-u18-boys",
+          "school": "Winchester College"
         },
         {
           "events_played": 1,
           "name": "Ben Platt",
           "oom_points": 168,
           "player_id": "p_61d5488b",
-          "position": 103,
+          "position": 141,
           "profile_id": "p_61d5488b-u18-boys",
           "school": "Gordon\u2019s School"
+        },
+        {
+          "events_played": 1,
+          "name": "Will Freeman",
+          "oom_points": 150,
+          "player_id": "p_c0f66beb",
+          "position": 142,
+          "profile_id": "p_c0f66beb-u18-boys",
+          "school": "Epsom College"
+        },
+        {
+          "events_played": 1,
+          "name": "Wilson Porter",
+          "oom_points": 150,
+          "player_id": "p_36f17296",
+          "position": 142,
+          "profile_id": "p_36f17296-u18-boys",
+          "school": "Bradfield College"
         },
         {
           "events_played": 1,
           "name": "Toby Arrowsmith",
           "oom_points": 135,
           "player_id": "p_a536ba3b",
-          "position": 104,
+          "position": 144,
           "profile_id": "p_a536ba3b-u18-boys",
           "school": "Lord Wandsworth College"
         },
         {
           "events_played": 1,
-          "name": "Albie Porter",
-          "oom_points": 131,
-          "player_id": "p_123fc7ef",
-          "position": 105,
-          "profile_id": "p_123fc7ef-u18-boys",
-          "school": "Lord Wandsworth College"
-        },
-        {
-          "events_played": 1,
-          "name": "Rory Hunter",
-          "oom_points": 115,
-          "player_id": "p_ebc0315e",
-          "position": 106,
-          "profile_id": "p_ebc0315e-u18-boys",
-          "school": "Lord Wandsworth College"
+          "name": "James Roots",
+          "oom_points": 122,
+          "player_id": "p_ec7e7fae",
+          "position": 145,
+          "profile_id": "p_ec7e7fae-u18-boys",
+          "school": "Cranleigh School"
         },
         {
           "events_played": 1,
           "name": "Sebastian Yongo",
           "oom_points": 110,
           "player_id": "p_2e4b99df",
-          "position": 107,
+          "position": 146,
           "profile_id": "p_2e4b99df-u18-boys",
           "school": "St Leonards School St Andrews"
         },
@@ -1654,7 +2005,7 @@
           "name": "Iker Sanz",
           "oom_points": 105,
           "player_id": "p_31fa4f5e",
-          "position": 108,
+          "position": 147,
           "profile_id": "p_31fa4f5e-u18-boys",
           "school": "Dollar Academy"
         },
@@ -1663,25 +2014,43 @@
           "name": "Louie O'Reilly",
           "oom_points": 105,
           "player_id": "p_98b2a914",
-          "position": 108,
+          "position": 147,
           "profile_id": "p_98b2a914-u18-boys",
           "school": "Lord Wandsworth College"
+        },
+        {
+          "events_played": 1,
+          "name": "James Redfern",
+          "oom_points": 104,
+          "player_id": "p_48fc7b15",
+          "position": 149,
+          "profile_id": "p_48fc7b15-u18-boys",
+          "school": "Winchester College"
         },
         {
           "events_played": 1,
           "name": "Thomas Wolfe",
           "oom_points": 100,
           "player_id": "p_20d634fb",
-          "position": 110,
+          "position": 150,
           "profile_id": "p_20d634fb-u18-boys",
           "school": "Glenalmond College"
+        },
+        {
+          "events_played": 1,
+          "name": "Philip Elias",
+          "oom_points": 96,
+          "player_id": "p_b25c231f",
+          "position": 151,
+          "profile_id": "p_b25c231f-u18-boys",
+          "school": "Radley College"
         },
         {
           "events_played": 1,
           "name": "Evan Howells",
           "oom_points": 70,
           "player_id": "p_3111282c",
-          "position": 111,
+          "position": 152,
           "profile_id": "p_3111282c-u18-boys",
           "school": "Lord Wandsworth College"
         },
@@ -1690,7 +2059,7 @@
           "name": "Henry Dodds",
           "oom_points": 70,
           "player_id": "p_656462af",
-          "position": 111,
+          "position": 152,
           "profile_id": "p_656462af-u18-boys",
           "school": "Gordon\u2019s School"
         },
@@ -1699,18 +2068,9 @@
           "name": "Struan Thomas",
           "oom_points": 63,
           "player_id": "p_23be22bb",
-          "position": 113,
+          "position": 154,
           "profile_id": "p_23be22bb-u18-boys",
           "school": "Merchiston Castle School"
-        },
-        {
-          "events_played": 1,
-          "name": "Archer Kettle",
-          "oom_points": 0,
-          "player_id": "p_4f9c65d7",
-          "position": 114,
-          "profile_id": "p_4f9c65d7-u18-boys",
-          "school": "Wellington College"
         }
       ],
       "type": "individual"
@@ -1792,10 +2152,28 @@
         },
         {
           "events_played": 1,
+          "name": "Ellie Lichtenhein",
+          "oom_points": 944,
+          "player_id": "p_7cf39738",
+          "position": 9,
+          "profile_id": "p_7cf39738-u18-girls",
+          "school": "Wellington College"
+        },
+        {
+          "events_played": 1,
+          "name": "Yada Sritrakul",
+          "oom_points": 944,
+          "player_id": "p_127ccdc3",
+          "position": 9,
+          "profile_id": "p_127ccdc3-u18-girls",
+          "school": "St Mary's School Ascot"
+        },
+        {
+          "events_played": 1,
           "name": "Arroa Herran",
           "oom_points": 864,
           "player_id": "p_3a6de642",
-          "position": 9,
+          "position": 11,
           "profile_id": "p_3a6de642-u18-girls",
           "school": "Stowe School"
         },
@@ -1804,7 +2182,7 @@
           "name": "Anashe Mukokeri",
           "oom_points": 608,
           "player_id": "p_d93d8100",
-          "position": 10,
+          "position": 12,
           "profile_id": "p_d93d8100-u18-girls",
           "school": "Culford School"
         },
@@ -1813,16 +2191,25 @@
           "name": "Amy Blackadder",
           "oom_points": 581,
           "player_id": "p_2f4aba22",
-          "position": 11,
+          "position": 13,
           "profile_id": "p_2f4aba22-u18-girls",
           "school": "Glenalmond College"
+        },
+        {
+          "events_played": 1,
+          "name": "Aroa Herran",
+          "oom_points": 483,
+          "player_id": "p_17eae8a6",
+          "position": 14,
+          "profile_id": "p_17eae8a6-u18-girls",
+          "school": "Stowe School"
         },
         {
           "events_played": 1,
           "name": "Nina Kramer",
           "oom_points": 310,
           "player_id": "p_296b00fd",
-          "position": 12,
+          "position": 15,
           "profile_id": "p_296b00fd-u18-girls",
           "school": "St Leonards School St Andrews"
         },
@@ -1831,7 +2218,7 @@
           "name": "Harriett Isaacs",
           "oom_points": 289,
           "player_id": "p_c4d1b117",
-          "position": 13,
+          "position": 16,
           "profile_id": "p_c4d1b117-u18-girls",
           "school": "Taunton School"
         },
@@ -1840,7 +2227,7 @@
           "name": "Sylvie Scharfenberg",
           "oom_points": 223,
           "player_id": "p_cbe11cfb",
-          "position": 14,
+          "position": 17,
           "profile_id": "p_cbe11cfb-u18-girls",
           "school": "Loretto School"
         },
@@ -1849,7 +2236,7 @@
           "name": "Emily-May Clements",
           "oom_points": 159,
           "player_id": "p_a757b022",
-          "position": 15,
+          "position": 18,
           "profile_id": "p_a757b022-u18-girls",
           "school": "Wellington College"
         },
@@ -1858,7 +2245,7 @@
           "name": "Emilia P\u00fcttmann",
           "oom_points": 97,
           "player_id": "p_173a0c84",
-          "position": 16,
+          "position": 19,
           "profile_id": "p_173a0c84-u18-girls",
           "school": "St Leonards School St Andrews"
         },
@@ -1867,7 +2254,7 @@
           "name": "Chloe Ainsworth",
           "oom_points": 0,
           "player_id": "p_6abcad33",
-          "position": 17,
+          "position": 20,
           "profile_id": "p_6abcad33-u18-girls",
           "school": "Wellington College"
         }
@@ -1878,106 +2265,146 @@
       "name": "U18 Schools",
       "standings": [
         {
-          "events_played": 2,
-          "name": "Gordon\u2019s School",
-          "oom_points": 2833,
-          "position": 1,
-          "profile_id": "s_b183fa52-u18-schools",
-          "school_id": "s_b183fa52"
-        },
-        {
-          "events_played": 2,
-          "name": "Loretto School",
-          "oom_points": 2573,
-          "position": 2,
-          "profile_id": "s_7fc0373e-u18-schools",
-          "school_id": "s_7fc0373e"
-        },
-        {
-          "events_played": 2,
+          "events_played": 3,
           "name": "Reeds School",
-          "oom_points": 2306,
-          "position": 3,
+          "oom_points": 3771,
+          "position": 1,
           "profile_id": "s_21888e71-u18-schools",
           "school_id": "s_21888e71"
         },
         {
           "events_played": 2,
+          "name": "Rossall School",
+          "oom_points": 3607,
+          "position": 2,
+          "profile_id": "s_abd07217-u18-schools",
+          "school_id": "s_abd07217"
+        },
+        {
+          "events_played": 3,
+          "name": "Gordon\u2019s School",
+          "oom_points": 2875,
+          "position": 3,
+          "profile_id": "s_b183fa52-u18-schools",
+          "school_id": "s_b183fa52"
+        },
+        {
+          "events_played": 3,
           "name": "Wellington College",
-          "oom_points": 2205,
+          "oom_points": 2850,
           "position": 4,
           "profile_id": "s_014a1724-u18-schools",
           "school_id": "s_014a1724"
         },
         {
-          "events_played": 1,
-          "name": "Rossall School",
-          "oom_points": 1985,
+          "events_played": 2,
+          "name": "Loretto School",
+          "oom_points": 2573,
           "position": 5,
-          "profile_id": "s_abd07217-u18-schools",
-          "school_id": "s_abd07217"
+          "profile_id": "s_7fc0373e-u18-schools",
+          "school_id": "s_7fc0373e"
         },
         {
-          "events_played": 2,
-          "name": "St Leonards School St Andrews",
-          "oom_points": 1936,
-          "position": 6,
-          "profile_id": "s_5127ec70-u18-schools",
-          "school_id": "s_5127ec70"
-        },
-        {
-          "events_played": 2,
+          "events_played": 3,
           "name": "Culford School",
-          "oom_points": 1399,
-          "position": 7,
+          "oom_points": 2539,
+          "position": 6,
           "profile_id": "s_55810334-u18-schools",
           "school_id": "s_55810334"
         },
         {
-          "events_played": 3,
-          "name": "Dollar Academy",
-          "oom_points": 1121,
-          "position": 8,
-          "profile_id": "s_a906e666-u18-schools",
-          "school_id": "s_a906e666"
+          "events_played": 2,
+          "name": "Seaford College",
+          "oom_points": 2514,
+          "position": 7,
+          "profile_id": "s_1dee6a86-u18-schools",
+          "school_id": "s_1dee6a86"
         },
         {
-          "events_played": 1,
+          "events_played": 2,
+          "name": "Stowe School",
+          "oom_points": 2059,
+          "position": 8,
+          "profile_id": "s_28225272-u18-schools",
+          "school_id": "s_28225272"
+        },
+        {
+          "events_played": 2,
           "name": "Bedford School",
-          "oom_points": 1040,
+          "oom_points": 1992,
           "position": 9,
           "profile_id": "s_6783f3d3-u18-schools",
           "school_id": "s_6783f3d3"
         },
         {
+          "events_played": 2,
+          "name": "St Leonards School St Andrews",
+          "oom_points": 1936,
+          "position": 10,
+          "profile_id": "s_5127ec70-u18-schools",
+          "school_id": "s_5127ec70"
+        },
+        {
+          "events_played": 1,
+          "name": "Millfield School",
+          "oom_points": 1855,
+          "position": 11,
+          "profile_id": "s_249d076e-u18-schools",
+          "school_id": "s_249d076e"
+        },
+        {
+          "events_played": 1,
+          "name": "Tonbridge School",
+          "oom_points": 1761,
+          "position": 12,
+          "profile_id": "s_dc0b8d26-u18-schools",
+          "school_id": "s_dc0b8d26"
+        },
+        {
+          "events_played": 1,
+          "name": "Eton College",
+          "oom_points": 1484,
+          "position": 13,
+          "profile_id": "s_f48a3574-u18-schools",
+          "school_id": "s_f48a3574"
+        },
+        {
+          "events_played": 3,
+          "name": "Lord Wandsworth College",
+          "oom_points": 1241,
+          "position": 14,
+          "profile_id": "s_2456130a-u18-schools",
+          "school_id": "s_2456130a"
+        },
+        {
+          "events_played": 3,
+          "name": "Dollar Academy",
+          "oom_points": 1121,
+          "position": 15,
+          "profile_id": "s_a906e666-u18-schools",
+          "school_id": "s_a906e666"
+        },
+        {
+          "events_played": 1,
+          "name": "Whitgift School",
+          "oom_points": 1038,
+          "position": 16,
+          "profile_id": "s_62854a7e-u18-schools",
+          "school_id": "s_62854a7e"
+        },
+        {
           "events_played": 1,
           "name": "Durham Sixth Form Centre",
           "oom_points": 978,
-          "position": 10,
+          "position": 17,
           "profile_id": "s_3b5ad4a0-u18-schools",
           "school_id": "s_3b5ad4a0"
         },
         {
           "events_played": 1,
-          "name": "Stowe School",
-          "oom_points": 934,
-          "position": 11,
-          "profile_id": "s_28225272-u18-schools",
-          "school_id": "s_28225272"
-        },
-        {
-          "events_played": 1,
-          "name": "Seaford College",
-          "oom_points": 892,
-          "position": 12,
-          "profile_id": "s_1dee6a86-u18-schools",
-          "school_id": "s_1dee6a86"
-        },
-        {
-          "events_played": 1,
           "name": "Glenalmond College",
           "oom_points": 875,
-          "position": 13,
+          "position": 18,
           "profile_id": "s_02013cfa-u18-schools",
           "school_id": "s_02013cfa"
         },
@@ -1985,25 +2412,57 @@
           "events_played": 2,
           "name": "Merchiston Castle School",
           "oom_points": 875,
-          "position": 13,
+          "position": 18,
           "profile_id": "s_76519fab-u18-schools",
           "school_id": "s_76519fab"
         },
         {
-          "events_played": 2,
-          "name": "Lord Wandsworth College",
-          "oom_points": 789,
-          "position": 15,
-          "profile_id": "s_2456130a-u18-schools",
-          "school_id": "s_2456130a"
+          "events_played": 1,
+          "name": "Harrow School",
+          "oom_points": 868,
+          "position": 20,
+          "profile_id": "s_3e150f30-u18-schools",
+          "school_id": "s_3e150f30"
         },
         {
           "events_played": 1,
           "name": "Taunton School",
           "oom_points": 750,
-          "position": 16,
+          "position": 21,
           "profile_id": "s_e407fbe2-u18-schools",
           "school_id": "s_e407fbe2"
+        },
+        {
+          "events_played": 1,
+          "name": "Epsom College",
+          "oom_points": 745,
+          "position": 22,
+          "profile_id": "s_48e5efd2-u18-schools",
+          "school_id": "s_48e5efd2"
+        },
+        {
+          "events_played": 1,
+          "name": "Winchester College",
+          "oom_points": 626,
+          "position": 23,
+          "profile_id": "s_c3a9091f-u18-schools",
+          "school_id": "s_c3a9091f"
+        },
+        {
+          "events_played": 1,
+          "name": "Bradfield College",
+          "oom_points": 552,
+          "position": 24,
+          "profile_id": "s_8af5806b-u18-schools",
+          "school_id": "s_8af5806b"
+        },
+        {
+          "events_played": 1,
+          "name": "Radley College",
+          "oom_points": 487,
+          "position": 25,
+          "profile_id": "s_5d29500f-u18-schools",
+          "school_id": "s_5d29500f"
         }
       ],
       "type": "school"
@@ -2059,6 +2518,25 @@
       "date": "2026-09-08",
       "event_id": "u18-ssgt-strokeplay-championship-2026-27-royal-ashdown-forest-54-holes-2026-09-08",
       "name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)"
+    },
+    "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22": {
+      "competitions": {
+        "u18-boys": {
+          "event_power": 19.266,
+          "starting_count": 69
+        },
+        "u18-girls": {
+          "event_power": 11.083,
+          "starting_count": 3
+        },
+        "u18-schools": {
+          "event_power": 19.492,
+          "starting_count": 18
+        }
+      },
+      "date": "2026-09-22",
+      "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+      "name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)"
     },
     "u18-u15-ssgt-strokeplay-championship-2026-27-elmwood-golf-club-36-holes-2026-09-22": {
       "competitions": {
@@ -2165,13 +2643,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 719,
           "position": 34
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 398,
+          "position": 51
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Ambrose Eaves",
-      "oom_points": 719,
+      "oom_points": 1117,
       "player_id": "p_006d5301",
-      "position": 58,
+      "position": 54,
       "profile_id": "p_006d5301-u18-boys",
       "school": "Bedford School"
     },
@@ -2191,7 +2677,7 @@
       "name": "Bradley Bownes",
       "oom_points": 558,
       "player_id": "p_011fb8ef",
-      "position": 75,
+      "position": 100,
       "profile_id": "p_011fb8ef-u18-boys",
       "school": "Stowe School"
     },
@@ -2207,19 +2693,27 @@
           "position": 11
         },
         {
-          "counting": true,
+          "counting": false,
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 1103,
           "position": 3
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1276,
+          "position": 18
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Zach Mathews",
-      "oom_points": 2719,
+      "oom_points": 2892,
       "player_id": "p_019da67d",
-      "position": 2,
+      "position": 8,
       "profile_id": "p_019da67d-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -2247,9 +2741,29 @@
       "name": "Matthew Daniels",
       "oom_points": 616,
       "player_id": "p_06cc7ad7",
-      "position": 70,
+      "position": 95,
       "profile_id": "p_06cc7ad7-u18-boys",
       "school": "Gordon\u2019s School"
+    },
+    "p_076ad599-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 674,
+          "position": 39
+        }
+      ],
+      "events_played": 1,
+      "name": "Zac Baines",
+      "oom_points": 674,
+      "player_id": "p_076ad599",
+      "position": 88,
+      "profile_id": "p_076ad599-u18-boys",
+      "school": "Harrow School"
     },
     "p_07aa2c6b-u15-boys": {
       "competition": "u15-boys",
@@ -2289,13 +2803,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1304,
           "position": 19
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 519,
+          "position": 44
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Louie Carson",
-      "oom_points": 1304,
+      "oom_points": 1823,
       "player_id": "p_099667db",
-      "position": 26,
+      "position": 23,
       "profile_id": "p_099667db-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -2315,7 +2837,7 @@
       "name": "Michael Greve",
       "oom_points": 819,
       "player_id": "p_09f83e58",
-      "position": 54,
+      "position": 81,
       "profile_id": "p_09f83e58-u18-boys",
       "school": "Reeds School"
     },
@@ -2335,7 +2857,7 @@
       "name": "Lucas Taylor Rae",
       "oom_points": 1385,
       "player_id": "p_0a69b1dc",
-      "position": 22,
+      "position": 40,
       "profile_id": "p_0a69b1dc-u18-boys",
       "school": "Reeds School"
     },
@@ -2367,6 +2889,26 @@
       "profile_id": "p_0adbf57e-u15-boys",
       "school": "Wellington College"
     },
+    "p_0bde23c2-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1822,
+          "position": 3
+        }
+      ],
+      "events_played": 1,
+      "name": "Ethan McKay",
+      "oom_points": 1822,
+      "player_id": "p_0bde23c2",
+      "position": 24,
+      "profile_id": "p_0bde23c2-u18-boys",
+      "school": "Tonbridge School"
+    },
     "p_0c54a434-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -2377,13 +2919,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1616,
           "position": 11
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1619,
+          "position": 7
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Cameron Gallagher",
-      "oom_points": 1616,
+      "oom_points": 3235,
       "player_id": "p_0c54a434",
-      "position": 15,
+      "position": 5,
       "profile_id": "p_0c54a434-u18-boys",
       "school": "Rossall School"
     },
@@ -2403,7 +2953,7 @@
       "name": "Juan Alvaro Corella",
       "oom_points": 1224,
       "player_id": "p_0c7e6059",
-      "position": 29,
+      "position": 48,
       "profile_id": "p_0c7e6059-u18-boys",
       "school": "Culford School"
     },
@@ -2417,13 +2967,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 2056,
           "position": 2
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1927,
+          "position": 1
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Aaron Moody",
-      "oom_points": 2056,
+      "oom_points": 3983,
       "player_id": "p_0ca28110",
-      "position": 6,
+      "position": 1,
       "profile_id": "p_0ca28110-u18-boys",
       "school": "Reeds School"
     },
@@ -2437,13 +2995,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1510,
           "position": 14
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 210,
+          "position": 60
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Shaan Patel",
-      "oom_points": 1510,
+      "oom_points": 1720,
       "player_id": "p_0f6d45c1",
-      "position": 17,
+      "position": 28,
       "profile_id": "p_0f6d45c1-u18-boys",
       "school": "Bedford School"
     },
@@ -2457,15 +3023,43 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 131,
           "position": 56
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 122,
+          "position": 66
+        }
+      ],
+      "events_played": 2,
+      "name": "Albie Porter",
+      "oom_points": 253,
+      "player_id": "p_123fc7ef",
+      "position": 129,
+      "profile_id": "p_123fc7ef-u18-boys",
+      "school": "Lord Wandsworth College"
+    },
+    "p_127ccdc3-u18-girls": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 944,
+          "position": 1
         }
       ],
       "events_played": 1,
-      "name": "Albie Porter",
-      "oom_points": 131,
-      "player_id": "p_123fc7ef",
-      "position": 105,
-      "profile_id": "p_123fc7ef-u18-boys",
-      "school": "Lord Wandsworth College"
+      "name": "Yada Sritrakul",
+      "oom_points": 944,
+      "player_id": "p_127ccdc3",
+      "position": 9,
+      "profile_id": "p_127ccdc3-u18-girls",
+      "school": "St Mary's School Ascot"
     },
     "p_1355d6e1-u15-boys": {
       "competition": "u15-boys",
@@ -2539,9 +3133,29 @@
       "name": "Rocco Shelton",
       "oom_points": 1158,
       "player_id": "p_15009c27",
-      "position": 32,
+      "position": 51,
       "profile_id": "p_15009c27-u18-boys",
       "school": "St Leonards School St Andrews"
+    },
+    "p_15ef7e3a-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 268,
+          "position": 57
+        }
+      ],
+      "events_played": 1,
+      "name": "Hutton McRoberts",
+      "oom_points": 268,
+      "player_id": "p_15ef7e3a",
+      "position": 126,
+      "profile_id": "p_15ef7e3a-u18-boys",
+      "school": "Harrow School"
     },
     "p_173a0c84-u18-girls": {
       "competition": "u18-girls",
@@ -2567,7 +3181,7 @@
       "name": "Emilia P\u00fcttmann",
       "oom_points": 97,
       "player_id": "p_173a0c84",
-      "position": 16,
+      "position": 19,
       "profile_id": "p_173a0c84-u18-girls",
       "school": "St Leonards School St Andrews"
     },
@@ -2591,6 +3205,26 @@
       "profile_id": "p_1762c5ee-u15-boys",
       "school": "Bedford School"
     },
+    "p_17eae8a6-u18-girls": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 483,
+          "position": 3
+        }
+      ],
+      "events_played": 1,
+      "name": "Aroa Herran",
+      "oom_points": 483,
+      "player_id": "p_17eae8a6",
+      "position": 14,
+      "profile_id": "p_17eae8a6-u18-girls",
+      "school": "Stowe School"
+    },
     "p_184360e3-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -2607,7 +3241,7 @@
       "name": "Angus McCranor",
       "oom_points": 568,
       "player_id": "p_184360e3",
-      "position": 73,
+      "position": 98,
       "profile_id": "p_184360e3-u18-boys",
       "school": "Glenalmond College"
     },
@@ -2641,13 +3275,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1616,
           "position": 11
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1822,
+          "position": 3
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Shiv Ahluwalia",
-      "oom_points": 1616,
+      "oom_points": 3438,
       "player_id": "p_1b39adfa",
-      "position": 15,
+      "position": 4,
       "profile_id": "p_1b39adfa-u18-boys",
       "school": "St Paul's School"
     },
@@ -2689,13 +3331,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1745,
           "position": 8
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 674,
+          "position": 39
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Harvey Cooper",
-      "oom_points": 1745,
+      "oom_points": 2419,
       "player_id": "p_1e71568e",
-      "position": 12,
+      "position": 15,
       "profile_id": "p_1e71568e-u18-boys",
       "school": "Reeds School"
     },
@@ -2715,7 +3365,7 @@
       "name": "Thomas Wolfe",
       "oom_points": 100,
       "player_id": "p_20d634fb",
-      "position": 110,
+      "position": 150,
       "profile_id": "p_20d634fb-u18-boys",
       "school": "Glenalmond College"
     },
@@ -2729,13 +3379,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 2102,
           "position": 1
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 674,
+          "position": 39
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Roland Gibson",
-      "oom_points": 2102,
+      "oom_points": 2776,
       "player_id": "p_21321579",
-      "position": 5,
+      "position": 10,
       "profile_id": "p_21321579-u18-boys",
       "school": "Wellington College"
     },
@@ -2811,7 +3469,7 @@
       "name": "Freddie Watt",
       "oom_points": 1224,
       "player_id": "p_22b30a67",
-      "position": 29,
+      "position": 48,
       "profile_id": "p_22b30a67-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -2831,7 +3489,7 @@
       "name": "Struan Thomas",
       "oom_points": 63,
       "player_id": "p_23be22bb",
-      "position": 113,
+      "position": 154,
       "profile_id": "p_23be22bb-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -2851,7 +3509,7 @@
       "name": "River Winbergh",
       "oom_points": 600,
       "player_id": "p_24317837",
-      "position": 71,
+      "position": 96,
       "profile_id": "p_24317837-u18-boys",
       "school": "Wellington College"
     },
@@ -2871,8 +3529,28 @@
       "name": "George Sleight",
       "oom_points": 370,
       "player_id": "p_25503e73",
-      "position": 84,
+      "position": 113,
       "profile_id": "p_25503e73-u18-boys",
+      "school": "Stowe School"
+    },
+    "p_25841921-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 985,
+          "position": 29
+        }
+      ],
+      "events_played": 1,
+      "name": "Fergus Coleman",
+      "oom_points": 985,
+      "player_id": "p_25841921",
+      "position": 65,
+      "profile_id": "p_25841921-u18-boys",
       "school": "Stowe School"
     },
     "p_26842293-u18-boys": {
@@ -2885,13 +3563,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1855,
           "position": 6
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1619,
+          "position": 7
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Josh Jackson",
-      "oom_points": 1855,
+      "oom_points": 3474,
       "player_id": "p_26842293",
-      "position": 10,
+      "position": 3,
       "profile_id": "p_26842293-u18-boys",
       "school": "Reeds School"
     },
@@ -2911,7 +3597,7 @@
       "name": "Ziming Gong",
       "oom_points": 1145,
       "player_id": "p_28d29185",
-      "position": 34,
+      "position": 53,
       "profile_id": "p_28d29185-u18-boys",
       "school": "Eton College"
     },
@@ -2951,7 +3637,7 @@
       "name": "Nina Kramer",
       "oom_points": 310,
       "player_id": "p_296b00fd",
-      "position": 12,
+      "position": 15,
       "profile_id": "p_296b00fd-u18-girls",
       "school": "St Leonards School St Andrews"
     },
@@ -2971,7 +3657,7 @@
       "name": "Finley Hall",
       "oom_points": 630,
       "player_id": "p_2aacebd1",
-      "position": 67,
+      "position": 92,
       "profile_id": "p_2aacebd1-u18-boys",
       "school": "Durham Sixth Form Centre"
     },
@@ -2991,9 +3677,49 @@
       "name": "Ollie Thwaites",
       "oom_points": 843,
       "player_id": "p_2b0ccce6",
-      "position": 50,
+      "position": 73,
       "profile_id": "p_2b0ccce6-u18-boys",
       "school": "Rossall School"
+    },
+    "p_2b9a58e4-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1619,
+          "position": 7
+        }
+      ],
+      "events_played": 1,
+      "name": "Mikey Hadway",
+      "oom_points": 1619,
+      "player_id": "p_2b9a58e4",
+      "position": 29,
+      "profile_id": "p_2b9a58e4-u18-boys",
+      "school": "Abingdon School"
+    },
+    "p_2dbca5e7-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1276,
+          "position": 18
+        }
+      ],
+      "events_played": 1,
+      "name": "Jack Wills",
+      "oom_points": 1276,
+      "player_id": "p_2dbca5e7",
+      "position": 45,
+      "profile_id": "p_2dbca5e7-u18-boys",
+      "school": "Bede's School"
     },
     "p_2df80396-u18-boys": {
       "competition": "u18-boys",
@@ -3011,7 +3737,7 @@
       "name": "Guillermo Buchen Arrendonda",
       "oom_points": 327,
       "player_id": "p_2df80396",
-      "position": 90,
+      "position": 122,
       "profile_id": "p_2df80396-u18-boys",
       "school": "Culford School"
     },
@@ -3031,7 +3757,7 @@
       "name": "Sebastian Yongo",
       "oom_points": 110,
       "player_id": "p_2e4b99df",
-      "position": 107,
+      "position": 146,
       "profile_id": "p_2e4b99df-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -3051,7 +3777,7 @@
       "name": "Amy Blackadder",
       "oom_points": 581,
       "player_id": "p_2f4aba22",
-      "position": 11,
+      "position": 13,
       "profile_id": "p_2f4aba22-u18-girls",
       "school": "Glenalmond College"
     },
@@ -3091,9 +3817,29 @@
       "name": "Jackson Tuohy",
       "oom_points": 1344,
       "player_id": "p_2fe6a55b",
-      "position": 24,
+      "position": 43,
       "profile_id": "p_2fe6a55b-u18-boys",
       "school": "St Leonards School St Andrews"
+    },
+    "p_30397dac-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1619,
+          "position": 7
+        }
+      ],
+      "events_played": 1,
+      "name": "Harry Ho",
+      "oom_points": 1619,
+      "player_id": "p_30397dac",
+      "position": 29,
+      "profile_id": "p_30397dac-u18-boys",
+      "school": "Winchester College"
     },
     "p_3111282c-u18-boys": {
       "competition": "u18-boys",
@@ -3111,7 +3857,7 @@
       "name": "Evan Howells",
       "oom_points": 70,
       "player_id": "p_3111282c",
-      "position": 111,
+      "position": 152,
       "profile_id": "p_3111282c-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -3159,7 +3905,7 @@
       "name": "Iker Sanz",
       "oom_points": 105,
       "player_id": "p_31fa4f5e",
-      "position": 108,
+      "position": 147,
       "profile_id": "p_31fa4f5e-u18-boys",
       "school": "Dollar Academy"
     },
@@ -3179,7 +3925,7 @@
       "name": "Alan Tang",
       "oom_points": 1023,
       "player_id": "p_32e04680",
-      "position": 42,
+      "position": 62,
       "profile_id": "p_32e04680-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -3203,6 +3949,26 @@
       "profile_id": "p_357658c8-u15-boys",
       "school": "Wellington College"
     },
+    "p_36f17296-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 150,
+          "position": 64
+        }
+      ],
+      "events_played": 1,
+      "name": "Wilson Porter",
+      "oom_points": 150,
+      "player_id": "p_36f17296",
+      "position": 142,
+      "profile_id": "p_36f17296-u18-boys",
+      "school": "Bradfield College"
+    },
     "p_38aeb132-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -3219,7 +3985,7 @@
       "name": "Constantin Scheller",
       "oom_points": 936,
       "player_id": "p_38aeb132",
-      "position": 44,
+      "position": 67,
       "profile_id": "p_38aeb132-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -3239,7 +4005,7 @@
       "name": "Arroa Herran",
       "oom_points": 864,
       "player_id": "p_3a6de642",
-      "position": 9,
+      "position": 11,
       "profile_id": "p_3a6de642-u18-girls",
       "school": "Stowe School"
     },
@@ -3259,7 +4025,7 @@
       "name": "Hayden Lockyer",
       "oom_points": 916,
       "player_id": "p_3f7a6d52",
-      "position": 47,
+      "position": 70,
       "profile_id": "p_3f7a6d52-u18-boys",
       "school": "Loretto School"
     },
@@ -3293,13 +4059,21 @@
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 685,
           "position": 10
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1437,
+          "position": 14
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Josh Bland",
-      "oom_points": 685,
+      "oom_points": 2122,
       "player_id": "p_4163a8b5",
-      "position": 62,
+      "position": 18,
       "profile_id": "p_4163a8b5-u18-boys",
       "school": "Stowe School"
     },
@@ -3319,9 +4093,29 @@
       "name": "Finley Pyke",
       "oom_points": 1029,
       "player_id": "p_42b9272f",
-      "position": 39,
+      "position": 60,
       "profile_id": "p_42b9272f-u18-boys",
       "school": "Taunton School"
+    },
+    "p_45b24b2d-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 331,
+          "position": 54
+        }
+      ],
+      "events_played": 1,
+      "name": "Troy Buttimer",
+      "oom_points": 331,
+      "player_id": "p_45b24b2d",
+      "position": 119,
+      "profile_id": "p_45b24b2d-u18-boys",
+      "school": "Harrow School"
     },
     "p_473c68f7-u15-boys": {
       "competition": "u15-boys",
@@ -3367,9 +4161,29 @@
       "name": "Orhan Broome",
       "oom_points": 313,
       "player_id": "p_486bd605",
-      "position": 92,
+      "position": 124,
       "profile_id": "p_486bd605-u18-boys",
       "school": "Merchiston Castle School"
+    },
+    "p_48fc7b15-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 104,
+          "position": 68
+        }
+      ],
+      "events_played": 1,
+      "name": "James Redfern",
+      "oom_points": 104,
+      "player_id": "p_48fc7b15",
+      "position": 149,
+      "profile_id": "p_48fc7b15-u18-boys",
+      "school": "Winchester College"
     },
     "p_4aa7d929-u15-girls": {
       "competition": "u15-girls",
@@ -3427,7 +4241,7 @@
       "name": "Yianni Goulandris",
       "oom_points": 987,
       "player_id": "p_4bd351f1",
-      "position": 43,
+      "position": 64,
       "profile_id": "p_4bd351f1-u18-boys",
       "school": "Wellington College"
     },
@@ -3447,7 +4261,7 @@
       "name": "Zach Patel",
       "oom_points": 1447,
       "player_id": "p_4cd0a6b3",
-      "position": 20,
+      "position": 36,
       "profile_id": "p_4cd0a6b3-u18-boys",
       "school": "Reeds School"
     },
@@ -3475,9 +4289,29 @@
       "name": "Kaiyan Johnpillai",
       "oom_points": 1051,
       "player_id": "p_4f775528",
-      "position": 37,
+      "position": 59,
       "profile_id": "p_4f775528-u18-boys",
       "school": "St Leonards School St Andrews"
+    },
+    "p_4f995ca4-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1892,
+          "position": 2
+        }
+      ],
+      "events_played": 1,
+      "name": "Seb Duffield",
+      "oom_points": 1892,
+      "player_id": "p_4f995ca4",
+      "position": 22,
+      "profile_id": "p_4f995ca4-u18-boys",
+      "school": "Wellington College"
     },
     "p_4f9c65d7-u18-boys": {
       "competition": "u18-boys",
@@ -3489,15 +4323,43 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 0,
           "position": null
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 519,
+          "position": 44
+        }
+      ],
+      "events_played": 2,
+      "name": "Archer Kettle",
+      "oom_points": 519,
+      "player_id": "p_4f9c65d7",
+      "position": 102,
+      "profile_id": "p_4f9c65d7-u18-boys",
+      "school": "Wellington College"
+    },
+    "p_50591e5c-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1090,
+          "position": 25
         }
       ],
       "events_played": 1,
-      "name": "Archer Kettle",
-      "oom_points": 0,
-      "player_id": "p_4f9c65d7",
-      "position": 114,
-      "profile_id": "p_4f9c65d7-u18-boys",
-      "school": "Wellington College"
+      "name": "Seb Bullock",
+      "oom_points": 1090,
+      "player_id": "p_50591e5c",
+      "position": 57,
+      "profile_id": "p_50591e5c-u18-boys",
+      "school": "Tonbridge School"
     },
     "p_51c57bb4-u18-boys": {
       "competition": "u18-boys",
@@ -3515,7 +4377,7 @@
       "name": "Niclas Pross",
       "oom_points": 1158,
       "player_id": "p_51c57bb4",
-      "position": 32,
+      "position": 51,
       "profile_id": "p_51c57bb4-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -3549,13 +4411,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 843,
           "position": 30
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1276,
+          "position": 18
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Alex Taylor",
-      "oom_points": 843,
+      "oom_points": 2119,
       "player_id": "p_529f6066",
-      "position": 50,
+      "position": 19,
       "profile_id": "p_529f6066-u18-boys",
       "school": "Rossall School"
     },
@@ -3575,7 +4445,7 @@
       "name": "Dylan Mumford",
       "oom_points": 412,
       "player_id": "p_552c54bd",
-      "position": 81,
+      "position": 108,
       "profile_id": "p_552c54bd-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -3615,7 +4485,7 @@
       "name": "Joaquin Perez De Una",
       "oom_points": 916,
       "player_id": "p_56c03cf7",
-      "position": 47,
+      "position": 70,
       "profile_id": "p_56c03cf7-u18-boys",
       "school": "Loretto School"
     },
@@ -3635,7 +4505,7 @@
       "name": "Thomas Kieran",
       "oom_points": 558,
       "player_id": "p_579a6125",
-      "position": 75,
+      "position": 100,
       "profile_id": "p_579a6125-u18-boys",
       "school": "Wellington College"
     },
@@ -3695,7 +4565,7 @@
       "name": "Mitchell Couryer",
       "oom_points": 189,
       "player_id": "p_58ef7305",
-      "position": 102,
+      "position": 139,
       "profile_id": "p_58ef7305-u18-boys",
       "school": "Taunton School"
     },
@@ -3719,6 +4589,26 @@
       "profile_id": "p_599961da-u15-boys",
       "school": "Merchiston Castle School"
     },
+    "p_5a8e4b20-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1822,
+          "position": 3
+        }
+      ],
+      "events_played": 1,
+      "name": "Adhritt Seth",
+      "oom_points": 1822,
+      "player_id": "p_5a8e4b20",
+      "position": 24,
+      "profile_id": "p_5a8e4b20-u18-boys",
+      "school": "Eton College"
+    },
     "p_5b4c3aff-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -3735,7 +4625,7 @@
       "name": "Jaime Obregon Gastelum",
       "oom_points": 916,
       "player_id": "p_5b4c3aff",
-      "position": 47,
+      "position": 70,
       "profile_id": "p_5b4c3aff-u18-boys",
       "school": "Loretto School"
     },
@@ -3769,13 +4659,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1855,
           "position": 6
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1276,
+          "position": 18
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Oliver Coleman",
-      "oom_points": 1855,
+      "oom_points": 3131,
       "player_id": "p_5edc277c",
-      "position": 10,
+      "position": 6,
       "profile_id": "p_5edc277c-u18-boys",
       "school": "Rossall School"
     },
@@ -3795,7 +4693,7 @@
       "name": "Leonard Andes",
       "oom_points": 630,
       "player_id": "p_5f062103",
-      "position": 67,
+      "position": 92,
       "profile_id": "p_5f062103-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -3835,7 +4733,7 @@
       "name": "Jay Emmerson",
       "oom_points": 1100,
       "player_id": "p_615e2448",
-      "position": 36,
+      "position": 55,
       "profile_id": "p_615e2448-u18-boys",
       "school": "Durham Sixth Form Centre"
     },
@@ -3855,7 +4753,7 @@
       "name": "Ben Platt",
       "oom_points": 168,
       "player_id": "p_61d5488b",
-      "position": 103,
+      "position": 141,
       "profile_id": "p_61d5488b-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -3895,7 +4793,7 @@
       "name": "Henry Dodds",
       "oom_points": 70,
       "player_id": "p_656462af",
-      "position": 111,
+      "position": 152,
       "profile_id": "p_656462af-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -3915,7 +4813,7 @@
       "name": "Archie Palmer",
       "oom_points": 1259,
       "player_id": "p_65d4524b",
-      "position": 27,
+      "position": 46,
       "profile_id": "p_65d4524b-u18-boys",
       "school": "Durham Sixth Form Centre"
     },
@@ -3935,7 +4833,7 @@
       "name": "Harry Jacks",
       "oom_points": 1344,
       "player_id": "p_66050998",
-      "position": 24,
+      "position": 43,
       "profile_id": "p_66050998-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -3955,7 +4853,7 @@
       "name": "Cole Graham",
       "oom_points": 191,
       "player_id": "p_663bd5b2",
-      "position": 101,
+      "position": 138,
       "profile_id": "p_663bd5b2-u18-boys",
       "school": "Culford School"
     },
@@ -3995,9 +4893,49 @@
       "name": "Chloe Ainsworth",
       "oom_points": 0,
       "player_id": "p_6abcad33",
-      "position": 17,
+      "position": 20,
       "profile_id": "p_6abcad33-u18-girls",
       "school": "Wellington College"
+    },
+    "p_6ac58b87-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 840,
+          "position": 32
+        }
+      ],
+      "events_played": 1,
+      "name": "Ralph Justice",
+      "oom_points": 840,
+      "player_id": "p_6ac58b87",
+      "position": 75,
+      "profile_id": "p_6ac58b87-u18-boys",
+      "school": "Epsom College"
+    },
+    "p_6c0f0e84-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 840,
+          "position": 32
+        }
+      ],
+      "events_played": 1,
+      "name": "Justin Zhao",
+      "oom_points": 840,
+      "player_id": "p_6c0f0e84",
+      "position": 75,
+      "profile_id": "p_6c0f0e84-u18-boys",
+      "school": "Tonbridge School"
     },
     "p_6cda3d8f-u15-boys": {
       "competition": "u15-boys",
@@ -4019,6 +4957,26 @@
       "profile_id": "p_6cda3d8f-u15-boys",
       "school": "Rossall School"
     },
+    "p_72475b59-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 210,
+          "position": 60
+        }
+      ],
+      "events_played": 1,
+      "name": "Henry Bayly",
+      "oom_points": 210,
+      "player_id": "p_72475b59",
+      "position": 136,
+      "profile_id": "p_72475b59-u18-boys",
+      "school": "Radley College"
+    },
     "p_7256e964-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -4035,9 +4993,49 @@
       "name": "Luca Betz",
       "oom_points": 243,
       "player_id": "p_7256e964",
-      "position": 95,
+      "position": 131,
       "profile_id": "p_7256e964-u18-boys",
       "school": "Loretto School"
+    },
+    "p_74999c17-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 985,
+          "position": 29
+        }
+      ],
+      "events_played": 1,
+      "name": "Rory Jacomb",
+      "oom_points": 985,
+      "player_id": "p_74999c17",
+      "position": 65,
+      "profile_id": "p_74999c17-u18-boys",
+      "school": "Whitgift School"
+    },
+    "p_7545928a-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1437,
+          "position": 14
+        }
+      ],
+      "events_played": 1,
+      "name": "Joss Monachello",
+      "oom_points": 1437,
+      "player_id": "p_7545928a",
+      "position": 38,
+      "profile_id": "p_7545928a-u18-boys",
+      "school": "Millfield School"
     },
     "p_75861c36-u15-boys": {
       "competition": "u15-boys",
@@ -4075,7 +5073,7 @@
       "name": "Licheng Zhu",
       "oom_points": 243,
       "player_id": "p_76d3545d",
-      "position": 95,
+      "position": 131,
       "profile_id": "p_76d3545d-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -4103,7 +5101,7 @@
       "name": "Toby Crawford",
       "oom_points": 228,
       "player_id": "p_7938ed32",
-      "position": 99,
+      "position": 135,
       "profile_id": "p_7938ed32-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -4123,7 +5121,7 @@
       "name": "Alfie Field",
       "oom_points": 685,
       "player_id": "p_799753df",
-      "position": 62,
+      "position": 86,
       "profile_id": "p_799753df-u18-boys",
       "school": "Glenalmond College"
     },
@@ -4143,7 +5141,7 @@
       "name": "Edoardo Tenconi",
       "oom_points": 843,
       "player_id": "p_79f0ad99",
-      "position": 50,
+      "position": 73,
       "profile_id": "p_79f0ad99-u18-boys",
       "school": "Eton College"
     },
@@ -4163,7 +5161,7 @@
       "name": "Kit Williams",
       "oom_points": 651,
       "player_id": "p_79f6756c",
-      "position": 66,
+      "position": 91,
       "profile_id": "p_79f6756c-u18-boys",
       "school": "Culford School"
     },
@@ -4183,7 +5181,7 @@
       "name": "Max Hickie",
       "oom_points": 519,
       "player_id": "p_7a9e3862",
-      "position": 77,
+      "position": 102,
       "profile_id": "p_7a9e3862-u18-boys",
       "school": "Seaford College"
     },
@@ -4203,7 +5201,7 @@
       "name": "James Tompkins",
       "oom_points": 243,
       "player_id": "p_7adf8e50",
-      "position": 95,
+      "position": 131,
       "profile_id": "p_7adf8e50-u18-boys",
       "school": "Wellington College"
     },
@@ -4227,6 +5225,26 @@
       "profile_id": "p_7c7a898e-u15-boys",
       "school": "Culford School"
     },
+    "p_7cf39738-u18-girls": {
+      "competition": "u18-girls",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 944,
+          "position": 1
+        }
+      ],
+      "events_played": 1,
+      "name": "Ellie Lichtenhein",
+      "oom_points": 944,
+      "player_id": "p_7cf39738",
+      "position": 9,
+      "profile_id": "p_7cf39738-u18-girls",
+      "school": "Wellington College"
+    },
     "p_7d0501c9-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -4243,7 +5261,7 @@
       "name": "Evan MacPhee",
       "oom_points": 387,
       "player_id": "p_7d0501c9",
-      "position": 83,
+      "position": 112,
       "profile_id": "p_7d0501c9-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -4287,6 +5305,26 @@
       "profile_id": "p_7fde6fdc-u18-girls",
       "school": "Rossall School"
     },
+    "p_80c00ee6-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1754,
+          "position": 6
+        }
+      ],
+      "events_played": 1,
+      "name": "Sullivan Goddard",
+      "oom_points": 1754,
+      "player_id": "p_80c00ee6",
+      "position": 26,
+      "profile_id": "p_80c00ee6-u18-boys",
+      "school": "Culford School"
+    },
     "p_81e8afbd-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -4297,13 +5335,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 719,
           "position": 34
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 840,
+          "position": 32
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Sean Collins",
-      "oom_points": 719,
+      "oom_points": 1559,
       "player_id": "p_81e8afbd",
-      "position": 58,
+      "position": 32,
       "profile_id": "p_81e8afbd-u18-boys",
       "school": "Reeds School"
     },
@@ -4323,7 +5369,7 @@
       "name": "William Mannering",
       "oom_points": 600,
       "player_id": "p_8262ae4a",
-      "position": 71,
+      "position": 96,
       "profile_id": "p_8262ae4a-u18-boys",
       "school": "Wellington College"
     },
@@ -4345,6 +5391,26 @@
       "player_id": "p_84c92e4d",
       "position": 8,
       "profile_id": "p_84c92e4d-u15-boys",
+      "school": "Culford School"
+    },
+    "p_84c92e4d-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 268,
+          "position": 57
+        }
+      ],
+      "events_played": 1,
+      "name": "Juan Alvaro Corella Greicha",
+      "oom_points": 268,
+      "player_id": "p_84c92e4d",
+      "position": 126,
+      "profile_id": "p_84c92e4d-u18-boys",
       "school": "Culford School"
     },
     "p_876e52c5-u18-girls": {
@@ -4439,7 +5505,7 @@
       "name": "Zane Martell",
       "oom_points": 806,
       "player_id": "p_8c5185fb",
-      "position": 55,
+      "position": 82,
       "profile_id": "p_8c5185fb-u18-boys",
       "school": "Cranleigh School"
     },
@@ -4475,19 +5541,27 @@
           "position": 17
         },
         {
-          "counting": true,
+          "counting": false,
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 930,
           "position": 6
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1090,
+          "position": 25
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Harry McCarthy",
-      "oom_points": 2315,
+      "oom_points": 2475,
       "player_id": "p_933709fb",
-      "position": 4,
+      "position": 14,
       "profile_id": "p_933709fb-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -4501,13 +5575,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 473,
           "position": 42
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 519,
+          "position": 44
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Jack Carson",
-      "oom_points": 473,
+      "oom_points": 992,
       "player_id": "p_94aa95b8",
-      "position": 78,
+      "position": 63,
       "profile_id": "p_94aa95b8-u18-boys",
       "school": "Seaford College"
     },
@@ -4521,13 +5603,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1966,
           "position": 4
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 674,
+          "position": 39
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Ellis Courtnell",
-      "oom_points": 1966,
+      "oom_points": 2640,
       "player_id": "p_96ace9af",
-      "position": 8,
+      "position": 12,
       "profile_id": "p_96ace9af-u18-boys",
       "school": "Rossall School"
     },
@@ -4563,7 +5653,7 @@
       "name": "Hugo Madrigal",
       "oom_points": 793,
       "player_id": "p_9757e1d5",
-      "position": 56,
+      "position": 83,
       "profile_id": "p_9757e1d5-u18-boys",
       "school": "Dollar Academy"
     },
@@ -4583,7 +5673,7 @@
       "name": "Louie O'Reilly",
       "oom_points": 105,
       "player_id": "p_98b2a914",
-      "position": 108,
+      "position": 147,
       "profile_id": "p_98b2a914-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -4623,7 +5713,7 @@
       "name": "Seb Hayden",
       "oom_points": 368,
       "player_id": "p_98ccbc12",
-      "position": 89,
+      "position": 118,
       "profile_id": "p_98ccbc12-u18-boys",
       "school": "Wellington College"
     },
@@ -4643,7 +5733,7 @@
       "name": "Owen Hopper",
       "oom_points": 685,
       "player_id": "p_990795fb",
-      "position": 62,
+      "position": 86,
       "profile_id": "p_990795fb-u18-boys",
       "school": "Wellington College"
     },
@@ -4735,6 +5825,26 @@
       "profile_id": "p_9c229355-u15-boys",
       "school": "Edinburgh Academy"
     },
+    "p_9c3dcaed-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1437,
+          "position": 14
+        }
+      ],
+      "events_played": 1,
+      "name": "Charles Wright",
+      "oom_points": 1437,
+      "player_id": "p_9c3dcaed",
+      "position": 38,
+      "profile_id": "p_9c3dcaed-u18-boys",
+      "school": "Millfield School"
+    },
     "p_9d9e788a-u18-girls": {
       "competition": "u18-girls",
       "event_history": [
@@ -4799,7 +5909,7 @@
       "name": "Callum Neill",
       "oom_points": 370,
       "player_id": "p_a3ba242a",
-      "position": 84,
+      "position": 113,
       "profile_id": "p_a3ba242a-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -4819,7 +5929,7 @@
       "name": "Toby Arrowsmith",
       "oom_points": 135,
       "player_id": "p_a536ba3b",
-      "position": 104,
+      "position": 144,
       "profile_id": "p_a536ba3b-u18-boys",
       "school": "Lord Wandsworth College"
     },
@@ -4833,13 +5943,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 719,
           "position": 34
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1437,
+          "position": 14
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Ethan Kwan",
-      "oom_points": 719,
+      "oom_points": 2156,
       "player_id": "p_a61e52fb",
-      "position": 58,
+      "position": 17,
       "profile_id": "p_a61e52fb-u18-boys",
       "school": "Seaford College"
     },
@@ -4867,7 +5985,7 @@
       "name": "Seb Bonner",
       "oom_points": 1474,
       "player_id": "p_a6dbfe58",
-      "position": 19,
+      "position": 35,
       "profile_id": "p_a6dbfe58-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -4887,7 +6005,7 @@
       "name": "Emily-May Clements",
       "oom_points": 159,
       "player_id": "p_a757b022",
-      "position": 15,
+      "position": 18,
       "profile_id": "p_a757b022-u18-girls",
       "school": "Wellington College"
     },
@@ -4901,13 +6019,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 212,
           "position": 52
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1166,
+          "position": 24
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Luke Waldegrave",
-      "oom_points": 212,
+      "oom_points": 1378,
       "player_id": "p_a8df059e",
-      "position": 100,
+      "position": 41,
       "profile_id": "p_a8df059e-u18-boys",
       "school": "Shiplake College"
     },
@@ -4947,7 +6073,7 @@
       "name": "Archie Brownlee",
       "oom_points": 243,
       "player_id": "p_ab684c40",
-      "position": 95,
+      "position": 131,
       "profile_id": "p_ab684c40-u18-boys",
       "school": "Loretto School"
     },
@@ -4969,13 +6095,21 @@
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 1192,
           "position": 1
+        },
+        {
+          "counting": false,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 519,
+          "position": 44
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Jake Platt",
       "oom_points": 3113,
       "player_id": "p_abf14058",
-      "position": 1,
+      "position": 7,
       "profile_id": "p_abf14058-u18-boys",
       "school": "Gordon\u2019s School"
     },
@@ -5015,7 +6149,7 @@
       "name": "Josh Hunt",
       "oom_points": 1192,
       "player_id": "p_ac7b2a72",
-      "position": 31,
+      "position": 50,
       "profile_id": "p_ac7b2a72-u18-boys",
       "school": "Stowe School"
     },
@@ -5039,6 +6173,46 @@
       "profile_id": "p_adba2534-u15-boys",
       "school": "Edinburgh Academy"
     },
+    "p_b1171f9b-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 674,
+          "position": 39
+        }
+      ],
+      "events_played": 1,
+      "name": "Rory Browett",
+      "oom_points": 674,
+      "player_id": "p_b1171f9b",
+      "position": 88,
+      "profile_id": "p_b1171f9b-u18-boys",
+      "school": "Bradfield College"
+    },
+    "p_b25c231f-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 96,
+          "position": 69
+        }
+      ],
+      "events_played": 1,
+      "name": "Philip Elias",
+      "oom_points": 96,
+      "player_id": "p_b25c231f",
+      "position": 151,
+      "profile_id": "p_b25c231f-u18-boys",
+      "school": "Radley College"
+    },
     "p_b39dd4f6-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -5055,7 +6229,7 @@
       "name": "Ambrose Rowse",
       "oom_points": 370,
       "player_id": "p_b39dd4f6",
-      "position": 84,
+      "position": 113,
       "profile_id": "p_b39dd4f6-u18-boys",
       "school": "Reeds School"
     },
@@ -5083,7 +6257,7 @@
       "name": "Bernardo Nava Domingues",
       "oom_points": 2499,
       "player_id": "p_b4cd0b54",
-      "position": 3,
+      "position": 13,
       "profile_id": "p_b4cd0b54-u18-boys",
       "school": "Loretto School"
     },
@@ -5103,9 +6277,29 @@
       "name": "Rupert Heal",
       "oom_points": 1745,
       "player_id": "p_b58a85dc",
-      "position": 12,
+      "position": 27,
       "profile_id": "p_b58a85dc-u18-boys",
       "school": "Wellington College"
+    },
+    "p_b597311a-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 210,
+          "position": 60
+        }
+      ],
+      "events_played": 1,
+      "name": "August Hu",
+      "oom_points": 210,
+      "player_id": "p_b597311a",
+      "position": 136,
+      "profile_id": "p_b597311a-u18-boys",
+      "school": "Radley College"
     },
     "p_b64f9e12-u18-boys": {
       "competition": "u18-boys",
@@ -5117,13 +6311,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 843,
           "position": 30
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1276,
+          "position": 18
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Benjamin Maddaford",
-      "oom_points": 843,
+      "oom_points": 2119,
       "player_id": "p_b64f9e12",
-      "position": 50,
+      "position": 19,
       "profile_id": "p_b64f9e12-u18-boys",
       "school": "Bedford School"
     },
@@ -5199,7 +6401,7 @@
       "name": "Ashton Everest",
       "oom_points": 1369,
       "player_id": "p_bb573681",
-      "position": 23,
+      "position": 42,
       "profile_id": "p_bb573681-u18-boys",
       "school": "Loretto school"
     },
@@ -5267,9 +6469,29 @@
       "name": "Douglas Brown",
       "oom_points": 286,
       "player_id": "p_bf99e87a",
-      "position": 93,
+      "position": 125,
       "profile_id": "p_bf99e87a-u18-boys",
       "school": "Dollar Academy"
+    },
+    "p_bfd38d69-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 331,
+          "position": 54
+        }
+      ],
+      "events_played": 1,
+      "name": "Lachlan Marshall",
+      "oom_points": 331,
+      "player_id": "p_bfd38d69",
+      "position": 119,
+      "profile_id": "p_bfd38d69-u18-boys",
+      "school": "Abingdon School"
     },
     "p_c04708b6-u18-boys": {
       "competition": "u18-boys",
@@ -5287,7 +6509,7 @@
       "name": "Tom Clemens",
       "oom_points": 1510,
       "player_id": "p_c04708b6",
-      "position": 17,
+      "position": 34,
       "profile_id": "p_c04708b6-u18-boys",
       "school": "Reeds School"
     },
@@ -5311,6 +6533,46 @@
       "profile_id": "p_c050a0a8-u15-boys",
       "school": "Rossall School"
     },
+    "p_c0e7643a-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 331,
+          "position": 54
+        }
+      ],
+      "events_played": 1,
+      "name": "Teddy Jenkins",
+      "oom_points": 331,
+      "player_id": "p_c0e7643a",
+      "position": 119,
+      "profile_id": "p_c0e7643a-u18-boys",
+      "school": "Canford School"
+    },
+    "p_c0f66beb-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 150,
+          "position": 64
+        }
+      ],
+      "events_played": 1,
+      "name": "Will Freeman",
+      "oom_points": 150,
+      "player_id": "p_c0f66beb",
+      "position": 142,
+      "profile_id": "p_c0f66beb-u18-boys",
+      "school": "Epsom College"
+    },
     "p_c1f8bf5c-u15-boys": {
       "competition": "u15-boys",
       "event_history": [
@@ -5331,6 +6593,26 @@
       "profile_id": "p_c1f8bf5c-u15-boys",
       "school": "St Leonards School St Andrews"
     },
+    "p_c324a191-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 398,
+          "position": 51
+        }
+      ],
+      "events_played": 1,
+      "name": "Noah Guest",
+      "oom_points": 398,
+      "player_id": "p_c324a191",
+      "position": 110,
+      "profile_id": "p_c324a191-u18-boys",
+      "school": "St Paul's School"
+    },
     "p_c4d1b117-u18-girls": {
       "competition": "u18-girls",
       "event_history": [
@@ -5347,7 +6629,7 @@
       "name": "Harriett Isaacs",
       "oom_points": 289,
       "player_id": "p_c4d1b117",
-      "position": 13,
+      "position": 16,
       "profile_id": "p_c4d1b117-u18-girls",
       "school": "Taunton School"
     },
@@ -5391,6 +6673,26 @@
       "profile_id": "p_c80d8022-u15-boys",
       "school": "Edinburgh Academy"
     },
+    "p_c874f845-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 519,
+          "position": 44
+        }
+      ],
+      "events_played": 1,
+      "name": "Jack Ruddy",
+      "oom_points": 519,
+      "player_id": "p_c874f845",
+      "position": 102,
+      "profile_id": "p_c874f845-u18-boys",
+      "school": "Cranleigh School"
+    },
     "p_c8f25eb5-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -5401,13 +6703,21 @@
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 1044,
           "position": 4
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1276,
+          "position": 18
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Dominic Mayling",
-      "oom_points": 1044,
+      "oom_points": 2320,
       "player_id": "p_c8f25eb5",
-      "position": 38,
+      "position": 16,
       "profile_id": "p_c8f25eb5-u18-boys",
       "school": "Reading Blue Coat School"
     },
@@ -5427,7 +6737,7 @@
       "name": "Guillermo Buchen Arredonda",
       "oom_points": 403,
       "player_id": "p_c9b87705",
-      "position": 82,
+      "position": 109,
       "profile_id": "p_c9b87705-u18-boys",
       "school": "Culford School"
     },
@@ -5455,7 +6765,7 @@
       "name": "Ben Miller",
       "oom_points": 1249,
       "player_id": "p_ca346610",
-      "position": 28,
+      "position": 47,
       "profile_id": "p_ca346610-u18-boys",
       "school": "Loretto School"
     },
@@ -5483,9 +6793,29 @@
       "name": "Sylvie Scharfenberg",
       "oom_points": 223,
       "player_id": "p_cbe11cfb",
-      "position": 14,
+      "position": 17,
       "profile_id": "p_cbe11cfb-u18-girls",
       "school": "Loretto School"
+    },
+    "p_cc298b5e-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 840,
+          "position": 32
+        }
+      ],
+      "events_played": 1,
+      "name": "David Sotkilava",
+      "oom_points": 840,
+      "player_id": "p_cc298b5e",
+      "position": 75,
+      "profile_id": "p_cc298b5e-u18-boys",
+      "school": "Eton College"
     },
     "p_cdb5c016-u15-girls": {
       "competition": "u15-girls",
@@ -5531,7 +6861,7 @@
       "name": "Saahir Kapoor",
       "oom_points": 370,
       "player_id": "p_ce980cd1",
-      "position": 84,
+      "position": 113,
       "profile_id": "p_ce980cd1-u18-boys",
       "school": "Reeds School"
     },
@@ -5573,15 +6903,43 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1745,
           "position": 8
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1090,
+          "position": 25
+        }
+      ],
+      "events_played": 2,
+      "name": "Finlay Fergusson",
+      "oom_points": 2835,
+      "player_id": "p_d0011334",
+      "position": 9,
+      "profile_id": "p_d0011334-u18-boys",
+      "school": "Reeds School"
+    },
+    "p_d04d56a5-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 519,
+          "position": 44
         }
       ],
       "events_played": 1,
-      "name": "Finlay Fergusson",
-      "oom_points": 1745,
-      "player_id": "p_d0011334",
-      "position": 12,
-      "profile_id": "p_d0011334-u18-boys",
-      "school": "Reeds School"
+      "name": "James Bradnum",
+      "oom_points": 519,
+      "player_id": "p_d04d56a5",
+      "position": 102,
+      "profile_id": "p_d04d56a5-u18-boys",
+      "school": "Epsom College"
     },
     "p_d13da77f-u15-boys": {
       "competition": "u15-boys",
@@ -5647,9 +7005,29 @@
       "name": "Oliver Sadler",
       "oom_points": 248,
       "player_id": "p_d4f06242",
-      "position": 94,
+      "position": 130,
       "profile_id": "p_d4f06242-u18-boys",
       "school": "Gordon\u2019s School"
+    },
+    "p_d7425bb3-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 174,
+          "position": 63
+        }
+      ],
+      "events_played": 1,
+      "name": "Sander Andreasen",
+      "oom_points": 174,
+      "player_id": "p_d7425bb3",
+      "position": 140,
+      "profile_id": "p_d7425bb3-u18-boys",
+      "school": "Winchester College"
     },
     "p_d8d1b3bb-u15-boys": {
       "competition": "u15-boys",
@@ -5687,7 +7065,7 @@
       "name": "Peer Glaeser",
       "oom_points": 457,
       "player_id": "p_d8edcec8",
-      "position": 79,
+      "position": 106,
       "profile_id": "p_d8edcec8-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -5707,7 +7085,7 @@
       "name": "Anashe Mukokeri",
       "oom_points": 608,
       "player_id": "p_d93d8100",
-      "position": 10,
+      "position": 12,
       "profile_id": "p_d93d8100-u18-girls",
       "school": "Culford School"
     },
@@ -5731,6 +7109,46 @@
       "profile_id": "p_da968e16-u15-boys",
       "school": "Lord Wandsworth College"
     },
+    "p_db2f6a35-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1619,
+          "position": 7
+        }
+      ],
+      "events_played": 1,
+      "name": "Jack McMeekin",
+      "oom_points": 1619,
+      "player_id": "p_db2f6a35",
+      "position": 29,
+      "profile_id": "p_db2f6a35-u18-boys",
+      "school": "Millfield School"
+    },
+    "p_dcb7e25c-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 840,
+          "position": 32
+        }
+      ],
+      "events_played": 1,
+      "name": "Ryan Wills",
+      "oom_points": 840,
+      "player_id": "p_dcb7e25c",
+      "position": 75,
+      "profile_id": "p_dcb7e25c-u18-boys",
+      "school": "Bede's School"
+    },
     "p_dd5987cf-u18-boys": {
       "competition": "u18-boys",
       "event_history": [
@@ -5747,7 +7165,7 @@
       "name": "Jake Lewis",
       "oom_points": 630,
       "player_id": "p_dd5987cf",
-      "position": 67,
+      "position": 92,
       "profile_id": "p_dd5987cf-u18-boys",
       "school": "Durham Sixth Form Centre"
     },
@@ -5787,7 +7205,7 @@
       "name": "Finley Morrison",
       "oom_points": 370,
       "player_id": "p_de70fff2",
-      "position": 84,
+      "position": 113,
       "profile_id": "p_de70fff2-u18-boys",
       "school": "Reeds School"
     },
@@ -5847,9 +7265,29 @@
       "name": "Ollie Morahan",
       "oom_points": 764,
       "player_id": "p_e0ef879b",
-      "position": 57,
+      "position": 84,
       "profile_id": "p_e0ef879b-u18-boys",
       "school": "Reeds School"
+    },
+    "p_e331b321-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 840,
+          "position": 32
+        }
+      ],
+      "events_played": 1,
+      "name": "Yakov Vorobyev",
+      "oom_points": 840,
+      "player_id": "p_e331b321",
+      "position": 75,
+      "profile_id": "p_e331b321-u18-boys",
+      "school": "Canford School"
     },
     "p_e3a232ed-u18-boys": {
       "competition": "u18-boys",
@@ -5867,9 +7305,29 @@
       "name": "Finlay Johnson",
       "oom_points": 925,
       "player_id": "p_e3a232ed",
-      "position": 46,
+      "position": 69,
       "profile_id": "p_e3a232ed-u18-boys",
       "school": "Loughborough College"
+    },
+    "p_e4b219a8-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 398,
+          "position": 51
+        }
+      ],
+      "events_played": 1,
+      "name": "Jeremy Li",
+      "oom_points": 398,
+      "player_id": "p_e4b219a8",
+      "position": 110,
+      "profile_id": "p_e4b219a8-u18-boys",
+      "school": "Whitgift School"
     },
     "p_e7642719-u15-boys": {
       "competition": "u15-boys",
@@ -5907,7 +7365,7 @@
       "name": "Jack Isaacs",
       "oom_points": 327,
       "player_id": "p_e767285a",
-      "position": 90,
+      "position": 122,
       "profile_id": "p_e767285a-u18-boys",
       "school": "Millfield School"
     },
@@ -5921,13 +7379,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1029,
           "position": 25
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 519,
+          "position": 44
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Josh Waldegrave",
-      "oom_points": 1029,
+      "oom_points": 1548,
       "player_id": "p_e880a27b",
-      "position": 39,
+      "position": 33,
       "profile_id": "p_e880a27b-u18-boys",
       "school": "Amersham School"
     },
@@ -5995,7 +7461,7 @@
       "name": "Guillaume Heim",
       "oom_points": 1438,
       "player_id": "p_e9904dd6",
-      "position": 21,
+      "position": 37,
       "profile_id": "p_e9904dd6-u18-boys",
       "school": "Merchiston Castle School"
     },
@@ -6009,15 +7475,43 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 115,
           "position": 57
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 985,
+          "position": 29
+        }
+      ],
+      "events_played": 2,
+      "name": "Rory Hunter",
+      "oom_points": 1100,
+      "player_id": "p_ebc0315e",
+      "position": 55,
+      "profile_id": "p_ebc0315e-u18-boys",
+      "school": "Lord Wandsworth College"
+    },
+    "p_ec7e7fae-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 122,
+          "position": 66
         }
       ],
       "events_played": 1,
-      "name": "Rory Hunter",
-      "oom_points": 115,
-      "player_id": "p_ebc0315e",
-      "position": 106,
-      "profile_id": "p_ebc0315e-u18-boys",
-      "school": "Lord Wandsworth College"
+      "name": "James Roots",
+      "oom_points": 122,
+      "player_id": "p_ec7e7fae",
+      "position": 145,
+      "profile_id": "p_ec7e7fae-u18-boys",
+      "school": "Cranleigh School"
     },
     "p_ece91f5b-u15-boys": {
       "competition": "u15-boys",
@@ -6063,7 +7557,7 @@
       "name": "Jakob Schlagb\u00f6hmer",
       "oom_points": 695,
       "player_id": "p_ef604217",
-      "position": 61,
+      "position": 85,
       "profile_id": "p_ef604217-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -6094,6 +7588,26 @@
       "position": 37,
       "profile_id": "p_eff3bfa4-u15-boys",
       "school": "Merchiston Castle School"
+    },
+    "p_f061fb54-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 840,
+          "position": 32
+        }
+      ],
+      "events_played": 1,
+      "name": "Ansh Soni",
+      "oom_points": 840,
+      "player_id": "p_f061fb54",
+      "position": 75,
+      "profile_id": "p_f061fb54-u18-boys",
+      "school": "Eton College"
     },
     "p_f1595f17-u15-boys": {
       "competition": "u15-boys",
@@ -6131,7 +7645,7 @@
       "name": "Oliver Smith",
       "oom_points": 934,
       "player_id": "p_f1595f17",
-      "position": 45,
+      "position": 68,
       "profile_id": "p_f1595f17-u18-boys",
       "school": "Bedford School"
     },
@@ -6145,13 +7659,21 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1145,
           "position": 23
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1619,
+          "position": 7
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "George McCallum",
-      "oom_points": 1145,
+      "oom_points": 2764,
       "player_id": "p_f2ce1012",
-      "position": 34,
+      "position": 11,
       "profile_id": "p_f2ce1012-u18-boys",
       "school": "Seaford College"
     },
@@ -6185,15 +7707,43 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 2011,
           "position": 3
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1619,
+          "position": 7
+        }
+      ],
+      "events_played": 2,
+      "name": "Justin Wang",
+      "oom_points": 3630,
+      "player_id": "p_f35a000e",
+      "position": 2,
+      "profile_id": "p_f35a000e-u18-boys",
+      "school": "Culford School"
+    },
+    "p_f441bf6b-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 268,
+          "position": 57
         }
       ],
       "events_played": 1,
-      "name": "Justin Wang",
-      "oom_points": 2011,
-      "player_id": "p_f35a000e",
-      "position": 7,
-      "profile_id": "p_f35a000e-u18-boys",
-      "school": "Culford School"
+      "name": "Woody Covey",
+      "oom_points": 268,
+      "player_id": "p_f441bf6b",
+      "position": 126,
+      "profile_id": "p_f441bf6b-u18-boys",
+      "school": "Bradfield College"
     },
     "p_f51953a2-u18-boys": {
       "competition": "u18-boys",
@@ -6211,7 +7761,7 @@
       "name": "Thomas Wylie",
       "oom_points": 568,
       "player_id": "p_f51953a2",
-      "position": 73,
+      "position": 98,
       "profile_id": "p_f51953a2-u18-boys",
       "school": "St Leonards School St Andrews"
     },
@@ -6231,7 +7781,7 @@
       "name": "Bertie Billson",
       "oom_points": 1029,
       "player_id": "p_f64fe4fc",
-      "position": 39,
+      "position": 60,
       "profile_id": "p_f64fe4fc-u18-boys",
       "school": "Taunton School"
     },
@@ -6271,9 +7821,29 @@
       "name": "Matti Adam",
       "oom_points": 446,
       "player_id": "p_f985fd28",
-      "position": 80,
+      "position": 107,
       "profile_id": "p_f985fd28-u18-boys",
       "school": "St Leonards School St Andrews"
+    },
+    "p_f9fc3b7b-u18-boys": {
+      "competition": "u18-boys",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1090,
+          "position": 25
+        }
+      ],
+      "events_played": 1,
+      "name": "Charlie Martin",
+      "oom_points": 1090,
+      "player_id": "p_f9fc3b7b",
+      "position": 57,
+      "profile_id": "p_f9fc3b7b-u18-boys",
+      "school": "Whitgift School"
     },
     "p_fabbf69b-u18-boys": {
       "competition": "u18-boys",
@@ -6307,7 +7877,7 @@
       "name": "Emiliano Sol\u00eds P\u00e9rez Taylor",
       "oom_points": 654,
       "player_id": "p_fabbf69b",
-      "position": 65,
+      "position": 90,
       "profile_id": "p_fabbf69b-u18-boys",
       "school": "Dollar Academy"
     },
@@ -6383,7 +7953,7 @@
       "name": "Amaury Lavollee",
       "oom_points": 1945,
       "player_id": "p_fe8b9038",
-      "position": 9,
+      "position": 21,
       "profile_id": "p_fe8b9038-u18-boys",
       "school": "Loretto School"
     }
@@ -6428,17 +7998,25 @@
           "position": 4
         },
         {
-          "counting": true,
+          "counting": false,
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 703,
           "position": 3
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1348,
+          "position": 7
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Wellington College",
-      "oom_points": 2205,
+      "oom_points": 2850,
       "position": 4,
       "profile_id": "s_014a1724-u18-schools",
       "school_id": "s_014a1724"
@@ -6458,7 +8036,7 @@
       "events_played": 1,
       "name": "Glenalmond College",
       "oom_points": 875,
-      "position": 13,
+      "position": 18,
       "profile_id": "s_02013cfa-u18-schools",
       "school_id": "s_02013cfa"
     },
@@ -6472,12 +8050,20 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 892,
           "position": 8
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1622,
+          "position": 4
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Seaford College",
-      "oom_points": 892,
-      "position": 12,
+      "oom_points": 2514,
+      "position": 7,
       "profile_id": "s_1dee6a86-u18-schools",
       "school_id": "s_1dee6a86"
     },
@@ -6512,18 +8098,26 @@
           "position": 2
         },
         {
-          "counting": true,
+          "counting": false,
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 484,
           "position": 4
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1949,
+          "position": 1
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Reeds School",
-      "oom_points": 2306,
-      "position": 3,
+      "oom_points": 3771,
+      "position": 1,
       "profile_id": "s_21888e71-u18-schools",
       "school_id": "s_21888e71"
     },
@@ -6558,20 +8152,47 @@
           "position": 11
         },
         {
-          "counting": true,
+          "counting": false,
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 293,
           "position": 5
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 745,
+          "position": 14
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Lord Wandsworth College",
-      "oom_points": 789,
-      "position": 15,
+      "oom_points": 1241,
+      "position": 14,
       "profile_id": "s_2456130a-u18-schools",
       "school_id": "s_2456130a"
+    },
+    "s_249d076e-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1855,
+          "position": 2
+        }
+      ],
+      "events_played": 1,
+      "name": "Millfield School",
+      "oom_points": 1855,
+      "position": 11,
+      "profile_id": "s_249d076e-u18-schools",
+      "school_id": "s_249d076e"
     },
     "s_28225272-u18-schools": {
       "competition": "u18-schools",
@@ -6583,12 +8204,20 @@
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 934,
           "position": 2
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1125,
+          "position": 10
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Stowe School",
-      "oom_points": 934,
-      "position": 11,
+      "oom_points": 2059,
+      "position": 8,
       "profile_id": "s_28225272-u18-schools",
       "school_id": "s_28225272"
     },
@@ -6607,9 +8236,47 @@
       "events_played": 1,
       "name": "Durham Sixth Form Centre",
       "oom_points": 978,
-      "position": 10,
+      "position": 17,
       "profile_id": "s_3b5ad4a0-u18-schools",
       "school_id": "s_3b5ad4a0"
+    },
+    "s_3e150f30-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 868,
+          "position": 13
+        }
+      ],
+      "events_played": 1,
+      "name": "Harrow School",
+      "oom_points": 868,
+      "position": 20,
+      "profile_id": "s_3e150f30-u18-schools",
+      "school_id": "s_3e150f30"
+    },
+    "s_48e5efd2-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 745,
+          "position": 14
+        }
+      ],
+      "events_played": 1,
+      "name": "Epsom College",
+      "oom_points": 745,
+      "position": 22,
+      "profile_id": "s_48e5efd2-u18-schools",
+      "school_id": "s_48e5efd2"
     },
     "s_5127ec70-u15-schools": {
       "competition": "u15-schools",
@@ -6661,7 +8328,7 @@
       "events_played": 2,
       "name": "St Leonards School St Andrews",
       "oom_points": 1936,
-      "position": 6,
+      "position": 10,
       "profile_id": "s_5127ec70-u18-schools",
       "school_id": "s_5127ec70"
     },
@@ -6696,20 +8363,66 @@
           "position": 6
         },
         {
-          "counting": true,
+          "counting": false,
           "date": "2026-09-15",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-kp-club-36-holes-2026-09-15",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The KP Club (36 Holes)",
           "points": 208,
           "position": 1
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1348,
+          "position": 7
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Culford School",
-      "oom_points": 1399,
-      "position": 7,
+      "oom_points": 2539,
+      "position": 6,
       "profile_id": "s_55810334-u18-schools",
       "school_id": "s_55810334"
+    },
+    "s_5d29500f-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 487,
+          "position": 18
+        }
+      ],
+      "events_played": 1,
+      "name": "Radley College",
+      "oom_points": 487,
+      "position": 25,
+      "profile_id": "s_5d29500f-u18-schools",
+      "school_id": "s_5d29500f"
+    },
+    "s_62854a7e-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1038,
+          "position": 11
+        }
+      ],
+      "events_played": 1,
+      "name": "Whitgift School",
+      "oom_points": 1038,
+      "position": 16,
+      "profile_id": "s_62854a7e-u18-schools",
+      "school_id": "s_62854a7e"
     },
     "s_6783f3d3-u15-schools": {
       "competition": "u15-schools",
@@ -6740,11 +8453,19 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1040,
           "position": 7
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 952,
+          "position": 12
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Bedford School",
-      "oom_points": 1040,
+      "oom_points": 1992,
       "position": 9,
       "profile_id": "s_6783f3d3-u18-schools",
       "school_id": "s_6783f3d3"
@@ -6799,7 +8520,7 @@
       "events_played": 2,
       "name": "Merchiston Castle School",
       "oom_points": 875,
-      "position": 13,
+      "position": 18,
       "profile_id": "s_76519fab-u18-schools",
       "school_id": "s_76519fab"
     },
@@ -6853,9 +8574,28 @@
       "events_played": 2,
       "name": "Loretto School",
       "oom_points": 2573,
-      "position": 2,
+      "position": 5,
       "profile_id": "s_7fc0373e-u18-schools",
       "school_id": "s_7fc0373e"
+    },
+    "s_8af5806b-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 552,
+          "position": 17
+        }
+      ],
+      "events_played": 1,
+      "name": "Bradfield College",
+      "oom_points": 552,
+      "position": 24,
+      "profile_id": "s_8af5806b-u18-schools",
+      "school_id": "s_8af5806b"
     },
     "s_a906e666-u18-schools": {
       "competition": "u18-schools",
@@ -6888,7 +8628,7 @@
       "events_played": 3,
       "name": "Dollar Academy",
       "oom_points": 1121,
-      "position": 8,
+      "position": 15,
       "profile_id": "s_a906e666-u18-schools",
       "school_id": "s_a906e666"
     },
@@ -6921,12 +8661,20 @@
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: Royal Ashdown Forest (54 Holes)",
           "points": 1985,
           "position": 1
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1622,
+          "position": 4
         }
       ],
-      "events_played": 1,
+      "events_played": 2,
       "name": "Rossall School",
-      "oom_points": 1985,
-      "position": 5,
+      "oom_points": 3607,
+      "position": 2,
       "profile_id": "s_abd07217-u18-schools",
       "school_id": "s_abd07217"
     },
@@ -6942,18 +8690,26 @@
           "position": 3
         },
         {
-          "counting": true,
+          "counting": false,
           "date": "2026-09-10",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-the-springs-18-holes-2026-09-10",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: The Springs (18 Holes)",
           "points": 1172,
           "position": 1
+        },
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1214,
+          "position": 9
         }
       ],
-      "events_played": 2,
+      "events_played": 3,
       "name": "Gordon\u2019s School",
-      "oom_points": 2833,
-      "position": 1,
+      "oom_points": 2875,
+      "position": 3,
       "profile_id": "s_b183fa52-u18-schools",
       "school_id": "s_b183fa52"
     },
@@ -6976,6 +8732,44 @@
       "profile_id": "s_bc0a8c72-u15-schools",
       "school_id": "s_bc0a8c72"
     },
+    "s_c3a9091f-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 626,
+          "position": 16
+        }
+      ],
+      "events_played": 1,
+      "name": "Winchester College",
+      "oom_points": 626,
+      "position": 23,
+      "profile_id": "s_c3a9091f-u18-schools",
+      "school_id": "s_c3a9091f"
+    },
+    "s_dc0b8d26-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1761,
+          "position": 3
+        }
+      ],
+      "events_played": 1,
+      "name": "Tonbridge School",
+      "oom_points": 1761,
+      "position": 12,
+      "profile_id": "s_dc0b8d26-u18-schools",
+      "school_id": "s_dc0b8d26"
+    },
     "s_e407fbe2-u18-schools": {
       "competition": "u18-schools",
       "event_history": [
@@ -6991,14 +8785,33 @@
       "events_played": 1,
       "name": "Taunton School",
       "oom_points": 750,
-      "position": 16,
+      "position": 21,
       "profile_id": "s_e407fbe2-u18-schools",
       "school_id": "s_e407fbe2"
+    },
+    "s_f48a3574-u18-schools": {
+      "competition": "u18-schools",
+      "event_history": [
+        {
+          "counting": true,
+          "date": "2026-09-22",
+          "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
+          "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
+          "points": 1484,
+          "position": 6
+        }
+      ],
+      "events_played": 1,
+      "name": "Eton College",
+      "oom_points": 1484,
+      "position": 13,
+      "profile_id": "s_f48a3574-u18-schools",
+      "school_id": "s_f48a3574"
     }
   },
   "season": {
     "name": "2026/27",
     "schema_version": "public-v1",
-    "updated": "2026-09-26"
+    "updated": "2026-09-30"
   }
 }
