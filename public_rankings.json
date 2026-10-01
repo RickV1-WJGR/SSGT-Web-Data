@@ -2348,7 +2348,7 @@
         {
           "events_played": 3,
           "name": "Reeds School",
-          "oom_points": 3771,
+          "oom_points": 3795,
           "position": 1,
           "profile_id": "s_21888e71-u18-schools",
           "school_id": "s_21888e71"
@@ -2356,26 +2356,26 @@
         {
           "events_played": 3,
           "name": "Rossall School",
-          "oom_points": 3607,
+          "oom_points": 3626,
           "position": 2,
           "profile_id": "s_abd07217-u18-schools",
           "school_id": "s_abd07217"
         },
         {
           "events_played": 3,
-          "name": "Gordon\u2019s School",
-          "oom_points": 2875,
+          "name": "Wellington College",
+          "oom_points": 2958,
           "position": 3,
-          "profile_id": "s_b183fa52-u18-schools",
-          "school_id": "s_b183fa52"
+          "profile_id": "s_014a1724-u18-schools",
+          "school_id": "s_014a1724"
         },
         {
           "events_played": 3,
-          "name": "Wellington College",
-          "oom_points": 2850,
+          "name": "Gordon\u2019s School",
+          "oom_points": 2889,
           "position": 4,
-          "profile_id": "s_014a1724-u18-schools",
-          "school_id": "s_014a1724"
+          "profile_id": "s_b183fa52-u18-schools",
+          "school_id": "s_b183fa52"
         },
         {
           "events_played": 2,
@@ -2386,20 +2386,20 @@
           "school_id": "s_7fc0373e"
         },
         {
-          "events_played": 3,
-          "name": "Culford School",
-          "oom_points": 2539,
-          "position": 6,
-          "profile_id": "s_55810334-u18-schools",
-          "school_id": "s_55810334"
-        },
-        {
           "events_played": 2,
           "name": "Seaford College",
-          "oom_points": 2514,
-          "position": 7,
+          "oom_points": 2533,
+          "position": 6,
           "profile_id": "s_1dee6a86-u18-schools",
           "school_id": "s_1dee6a86"
+        },
+        {
+          "events_played": 3,
+          "name": "Culford School",
+          "oom_points": 2510,
+          "position": 7,
+          "profile_id": "s_55810334-u18-schools",
+          "school_id": "s_55810334"
         },
         {
           "events_played": 2,
@@ -2412,7 +2412,7 @@
         {
           "events_played": 2,
           "name": "Stowe School",
-          "oom_points": 2059,
+          "oom_points": 2073,
           "position": 9,
           "profile_id": "s_28225272-u18-schools",
           "school_id": "s_28225272"
@@ -2420,7 +2420,7 @@
         {
           "events_played": 2,
           "name": "Bedford School",
-          "oom_points": 1992,
+          "oom_points": 2004,
           "position": 10,
           "profile_id": "s_6783f3d3-u18-schools",
           "school_id": "s_6783f3d3"
@@ -2436,7 +2436,7 @@
         {
           "events_played": 1,
           "name": "Millfield School",
-          "oom_points": 1855,
+          "oom_points": 1877,
           "position": 12,
           "profile_id": "s_249d076e-u18-schools",
           "school_id": "s_249d076e"
@@ -2444,7 +2444,7 @@
         {
           "events_played": 1,
           "name": "Tonbridge School",
-          "oom_points": 1761,
+          "oom_points": 1782,
           "position": 13,
           "profile_id": "s_dc0b8d26-u18-schools",
           "school_id": "s_dc0b8d26"
@@ -2452,26 +2452,26 @@
         {
           "events_played": 1,
           "name": "Eton College",
-          "oom_points": 1484,
+          "oom_points": 1456,
           "position": 14,
           "profile_id": "s_f48a3574-u18-schools",
           "school_id": "s_f48a3574"
         },
         {
+          "events_played": 3,
+          "name": "Lord Wandsworth College",
+          "oom_points": 1250,
+          "position": 15,
+          "profile_id": "s_2456130a-u18-schools",
+          "school_id": "s_2456130a"
+        },
+        {
           "events_played": 4,
           "name": "Dollar Academy",
           "oom_points": 1242,
-          "position": 15,
+          "position": 16,
           "profile_id": "s_a906e666-u18-schools",
           "school_id": "s_a906e666"
-        },
-        {
-          "events_played": 3,
-          "name": "Lord Wandsworth College",
-          "oom_points": 1241,
-          "position": 16,
-          "profile_id": "s_2456130a-u18-schools",
-          "school_id": "s_2456130a"
         },
         {
           "events_played": 2,
@@ -2484,16 +2484,24 @@
         {
           "events_played": 1,
           "name": "Whitgift School",
-          "oom_points": 1038,
+          "oom_points": 1051,
           "position": 18,
           "profile_id": "s_62854a7e-u18-schools",
           "school_id": "s_62854a7e"
         },
         {
           "events_played": 1,
+          "name": "Harrow School",
+          "oom_points": 878,
+          "position": 19,
+          "profile_id": "s_3e150f30-u18-schools",
+          "school_id": "s_3e150f30"
+        },
+        {
+          "events_played": 1,
           "name": "Glenalmond College",
           "oom_points": 875,
-          "position": 19,
+          "position": 20,
           "profile_id": "s_02013cfa-u18-schools",
           "school_id": "s_02013cfa"
         },
@@ -2501,22 +2509,14 @@
           "events_played": 2,
           "name": "Merchiston Castle School",
           "oom_points": 875,
-          "position": 19,
+          "position": 20,
           "profile_id": "s_76519fab-u18-schools",
           "school_id": "s_76519fab"
         },
         {
           "events_played": 1,
-          "name": "Harrow School",
-          "oom_points": 868,
-          "position": 21,
-          "profile_id": "s_3e150f30-u18-schools",
-          "school_id": "s_3e150f30"
-        },
-        {
-          "events_played": 1,
           "name": "Epsom College",
-          "oom_points": 745,
+          "oom_points": 754,
           "position": 22,
           "profile_id": "s_48e5efd2-u18-schools",
           "school_id": "s_48e5efd2"
@@ -2524,7 +2524,7 @@
         {
           "events_played": 1,
           "name": "Winchester College",
-          "oom_points": 626,
+          "oom_points": 634,
           "position": 23,
           "profile_id": "s_c3a9091f-u18-schools",
           "school_id": "s_c3a9091f"
@@ -2532,7 +2532,7 @@
         {
           "events_played": 1,
           "name": "Bradfield College",
-          "oom_points": 552,
+          "oom_points": 559,
           "position": 24,
           "profile_id": "s_8af5806b-u18-schools",
           "school_id": "s_8af5806b"
@@ -2540,7 +2540,7 @@
         {
           "events_played": 1,
           "name": "Radley College",
-          "oom_points": 487,
+          "oom_points": 493,
           "position": 25,
           "profile_id": "s_5d29500f-u18-schools",
           "school_id": "s_5d29500f"
@@ -2611,7 +2611,7 @@
           "starting_count": 3
         },
         "u18-schools": {
-          "event_power": 19.492,
+          "event_power": 19.728,
           "starting_count": 18
         }
       },
@@ -8462,14 +8462,14 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1348,
-          "position": 7
+          "points": 1456,
+          "position": 6
         }
       ],
       "events_played": 3,
       "name": "Wellington College",
-      "oom_points": 2850,
-      "position": 4,
+      "oom_points": 2958,
+      "position": 3,
       "profile_id": "s_014a1724-u18-schools",
       "school_id": "s_014a1724"
     },
@@ -8488,7 +8488,7 @@
       "events_played": 1,
       "name": "Glenalmond College",
       "oom_points": 875,
-      "position": 19,
+      "position": 20,
       "profile_id": "s_02013cfa-u18-schools",
       "school_id": "s_02013cfa"
     },
@@ -8508,14 +8508,14 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1622,
+          "points": 1641,
           "position": 4
         }
       ],
       "events_played": 2,
       "name": "Seaford College",
-      "oom_points": 2514,
-      "position": 7,
+      "oom_points": 2533,
+      "position": 6,
       "profile_id": "s_1dee6a86-u18-schools",
       "school_id": "s_1dee6a86"
     },
@@ -8562,13 +8562,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1949,
+          "points": 1973,
           "position": 1
         }
       ],
       "events_played": 3,
       "name": "Reeds School",
-      "oom_points": 3771,
+      "oom_points": 3795,
       "position": 1,
       "profile_id": "s_21888e71-u18-schools",
       "school_id": "s_21888e71"
@@ -8616,14 +8616,14 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 745,
+          "points": 754,
           "position": 14
         }
       ],
       "events_played": 3,
       "name": "Lord Wandsworth College",
-      "oom_points": 1241,
-      "position": 16,
+      "oom_points": 1250,
+      "position": 15,
       "profile_id": "s_2456130a-u18-schools",
       "school_id": "s_2456130a"
     },
@@ -8635,13 +8635,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1855,
+          "points": 1877,
           "position": 2
         }
       ],
       "events_played": 1,
       "name": "Millfield School",
-      "oom_points": 1855,
+      "oom_points": 1877,
       "position": 12,
       "profile_id": "s_249d076e-u18-schools",
       "school_id": "s_249d076e"
@@ -8662,13 +8662,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1125,
+          "points": 1139,
           "position": 10
         }
       ],
       "events_played": 2,
       "name": "Stowe School",
-      "oom_points": 2059,
+      "oom_points": 2073,
       "position": 9,
       "profile_id": "s_28225272-u18-schools",
       "school_id": "s_28225272"
@@ -8708,14 +8708,14 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 868,
+          "points": 878,
           "position": 13
         }
       ],
       "events_played": 1,
       "name": "Harrow School",
-      "oom_points": 868,
-      "position": 21,
+      "oom_points": 878,
+      "position": 19,
       "profile_id": "s_3e150f30-u18-schools",
       "school_id": "s_3e150f30"
     },
@@ -8727,13 +8727,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 745,
+          "points": 754,
           "position": 14
         }
       ],
       "events_played": 1,
       "name": "Epsom College",
-      "oom_points": 745,
+      "oom_points": 754,
       "position": 22,
       "profile_id": "s_48e5efd2-u18-schools",
       "school_id": "s_48e5efd2"
@@ -8843,14 +8843,14 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1348,
-          "position": 7
+          "points": 1319,
+          "position": 8
         }
       ],
       "events_played": 3,
       "name": "Culford School",
-      "oom_points": 2539,
-      "position": 6,
+      "oom_points": 2510,
+      "position": 7,
       "profile_id": "s_55810334-u18-schools",
       "school_id": "s_55810334"
     },
@@ -8862,13 +8862,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 487,
+          "points": 493,
           "position": 18
         }
       ],
       "events_played": 1,
       "name": "Radley College",
-      "oom_points": 487,
+      "oom_points": 493,
       "position": 25,
       "profile_id": "s_5d29500f-u18-schools",
       "school_id": "s_5d29500f"
@@ -8881,13 +8881,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1038,
+          "points": 1051,
           "position": 11
         }
       ],
       "events_played": 1,
       "name": "Whitgift School",
-      "oom_points": 1038,
+      "oom_points": 1051,
       "position": 18,
       "profile_id": "s_62854a7e-u18-schools",
       "school_id": "s_62854a7e"
@@ -8927,13 +8927,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 952,
+          "points": 964,
           "position": 12
         }
       ],
       "events_played": 2,
       "name": "Bedford School",
-      "oom_points": 1992,
+      "oom_points": 2004,
       "position": 10,
       "profile_id": "s_6783f3d3-u18-schools",
       "school_id": "s_6783f3d3"
@@ -8988,7 +8988,7 @@
       "events_played": 2,
       "name": "Merchiston Castle School",
       "oom_points": 875,
-      "position": 19,
+      "position": 20,
       "profile_id": "s_76519fab-u18-schools",
       "school_id": "s_76519fab"
     },
@@ -9054,13 +9054,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 552,
+          "points": 559,
           "position": 17
         }
       ],
       "events_played": 1,
       "name": "Bradfield College",
-      "oom_points": 552,
+      "oom_points": 559,
       "position": 24,
       "profile_id": "s_8af5806b-u18-schools",
       "school_id": "s_8af5806b"
@@ -9104,7 +9104,7 @@
       "events_played": 4,
       "name": "Dollar Academy",
       "oom_points": 1242,
-      "position": 15,
+      "position": 16,
       "profile_id": "s_a906e666-u18-schools",
       "school_id": "s_a906e666"
     },
@@ -9151,7 +9151,7 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1622,
+          "points": 1641,
           "position": 4
         },
         {
@@ -9165,7 +9165,7 @@
       ],
       "events_played": 3,
       "name": "Rossall School",
-      "oom_points": 3607,
+      "oom_points": 3626,
       "position": 2,
       "profile_id": "s_abd07217-u18-schools",
       "school_id": "s_abd07217"
@@ -9194,14 +9194,14 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1214,
+          "points": 1228,
           "position": 9
         }
       ],
       "events_played": 3,
       "name": "Gordon\u2019s School",
-      "oom_points": 2875,
-      "position": 3,
+      "oom_points": 2889,
+      "position": 4,
       "profile_id": "s_b183fa52-u18-schools",
       "school_id": "s_b183fa52"
     },
@@ -9240,13 +9240,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 626,
+          "points": 634,
           "position": 16
         }
       ],
       "events_played": 1,
       "name": "Winchester College",
-      "oom_points": 626,
+      "oom_points": 634,
       "position": 23,
       "profile_id": "s_c3a9091f-u18-schools",
       "school_id": "s_c3a9091f"
@@ -9259,13 +9259,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1761,
+          "points": 1782,
           "position": 3
         }
       ],
       "events_played": 1,
       "name": "Tonbridge School",
-      "oom_points": 1761,
+      "oom_points": 1782,
       "position": 13,
       "profile_id": "s_dc0b8d26-u18-schools",
       "school_id": "s_dc0b8d26"
@@ -9305,13 +9305,13 @@
           "date": "2026-09-22",
           "event_id": "u18-ssgt-strokeplay-championship-2026-27-the-berkshire-18-holes-2026-09-22",
           "event_name": "U18 SSGT Strokeplay Championship 2026/27: The Berkshire (18 Holes)",
-          "points": 1484,
+          "points": 1456,
           "position": 6
         }
       ],
       "events_played": 1,
       "name": "Eton College",
-      "oom_points": 1484,
+      "oom_points": 1456,
       "position": 14,
       "profile_id": "s_f48a3574-u18-schools",
       "school_id": "s_f48a3574"
@@ -9320,6 +9320,6 @@
   "season": {
     "name": "2026/27",
     "schema_version": "public-v1",
-    "updated": "2026-09-30"
+    "updated": "2026-10-01"
   }
 }
