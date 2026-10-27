@@ -741,7 +741,7 @@
         {
           "events_played": 1,
           "name": "Amy Alderton",
-          "oom_points": 0,
+          "oom_points": 1,
           "player_id": "p_30282f59",
           "position": 7,
           "profile_id": "p_30282f59-u15-girls",
@@ -752,7 +752,7 @@
           "name": "Anna Liang",
           "oom_points": 0,
           "player_id": "p_4aa7d929",
-          "position": 7,
+          "position": 8,
           "profile_id": "p_4aa7d929-u15-girls",
           "school": "Wellington College"
         }
@@ -4622,13 +4622,13 @@
           "date": "2026-10-27",
           "event_id": "u18-u15-ssgt-strokeplay-championship-2026-27-craigielaw-18-holes-2026-10-27",
           "event_name": "U18 & U15 SSGT Strokeplay Championship 2026/27: Craigielaw (18 Holes)",
-          "points": 0,
+          "points": 1,
           "position": 1
         }
       ],
       "events_played": 1,
       "name": "Amy Alderton",
-      "oom_points": 0,
+      "oom_points": 1,
       "player_id": "p_30282f59",
       "position": 7,
       "profile_id": "p_30282f59-u15-girls",
@@ -5102,7 +5102,7 @@
       "name": "Anna Liang",
       "oom_points": 0,
       "player_id": "p_4aa7d929",
-      "position": 7,
+      "position": 8,
       "profile_id": "p_4aa7d929-u15-girls",
       "school": "Wellington College"
     },
